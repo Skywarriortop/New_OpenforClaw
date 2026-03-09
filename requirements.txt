@@ -1,0 +1,21 @@
+alembic
+psycopg2-binary # Untuk koneksi PostgreSQL
+SQLAlchemy
+pandas
+numpy
+MetaTrader5 # Jika diinstal dari sumber lain, mungkin nama paketnya berbeda
+matplotlib
+scikit-learn # Jika Anda menggunakan ML
+scipy # Jika Anda menggunakan analisis ilmiah
+TA-Lib # Jika diinstal dari wheel, mungkin nama paketnya berbeda
+requests
+beautifulsoup4
+selenium
+webdriver-manager # Untuk Selenium
+python-dotenv
+Flask
+Flask-SocketIO
+Flask-Cors
+python-telegram-bot # Jika ini yang digunakan
+openai # Untuk OpenAI API
+pytz # Jika Anda menggunakan untuk penanganan timezone secara eksplisit
