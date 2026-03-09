@@ -1,0 +1,183 @@
+Strategi Pemecahan Unit untuk market_data_processor.py
+market_data_processor.py adalah modul yang kompleks karena menangani banyak aspek pemrosesan data pasar. Untuk unit testing, kita perlu memecahnya menjadi bagian-bagian yang lebih kecil dan terisolasi.
+
+Prinsip Utama: Isolasi & Mocking
+Isolasi Penuh: Setiap fungsi yang akan diuji harus terisolasi dari fungsi lain sebisa mungkin. Jika Fungsi A memanggil Fungsi B, saat menguji Fungsi A, Fungsi B sebaiknya di-mock. Ini memastikan bahwa jika test Fungsi A gagal, masalahnya ada di Fungsi A, bukan di Fungsi B (yang seharusnya sudah diuji secara terpisah).
+
+Mocking Ketergantungan:
+
+Ketergantungan Eksternal (Database, MT5): Ini adalah prioritas utama. database_manager dan mt5_connector HARUS selalu di-mock untuk setiap unit test. Hal ini mencegah ketergantungan pada koneksi live, data asli, atau status eksternal yang tidak dapat dikontrol.
+
+Ketergantungan Internal Modul: Jika fungsi yang diuji memanggil fungsi lain di dalam market_data_processor.py itu sendiri (misalnya, _backfill_single_timeframe_features memanggil _calculate_rsi), maka fungsi internal yang dipanggil tersebut juga bisa di-mock. Ini memungkinkan kita menguji "alur" logika fungsi utama, tanpa perlu menguji ulang perhitungan detail dari fungsi internal yang sudah punya test sendiri.
+
+Pengelompokan Test & Contoh Test Cases
+Kita akan mengelompokkan unit test berdasarkan kategori fungsi, serupa dengan diskusi sebelumnya. Untuk setiap kategori, kita akan memberikan contoh test case spesifik dan bagaimana cara memecahnya.
+
+1. Fungsi Perhitungan Indikator & Data Dasar (Pure Calculation)
+Fungsi-fungsi ini umumnya hanya menerima input DataFrame dan mengembalikan output berdasarkan perhitungan matematis. Mereka memiliki ketergantungan paling sedikit (hanya pada pandas, numpy, dan talib).
+
+Fungsi yang Diuji:
+
+_calculate_rsi(ohlc_df: pd.DataFrame, period: int) -> pd.Series lulus
+
+_calculate_atr(ohlc_df_float: pd.DataFrame, period: int) -> pd.Series
+
+_calculate_macd(df_ohlc_float: pd.DataFrame, fast_period: int, slow_period: int, signal_period: int) lulus
+
+calculate_sma(prices, period) lulus
+
+_calculate_ema_internal(df_close_prices: pd.Series, period: int) -> pd.Series lulus 
+
+_calculate_swing_highs_lows_internal(ohlc_df_float: pd.DataFrame, swing_length: int = 5) -> pd.DataFrame lulus 
+
+
+_calculate_retracements_internal(ohlc_df_decimal: pd.DataFrame, swing_highs_lows_df: pd.DataFrame) -> pd.DataFrame lulus
+
+_calculate_volume_profile_internal(...) -> tuple lulus
+
+_calculate_sessions_internal(...) -> pd.DataFrame lulus
+
+Strategi Test:
+
+Buat DataFrame atau Series input mock yang sederhana dan jelas untuk skenario normal (misalnya, tren naik yang stabil).
+
+Sediakan edge cases: input kosong, data tidak cukup untuk periode perhitungan, data dengan nilai NaN.
+
+Lakukan assertion pada tipe output (misalnya, pd.Series, pd.DataFrame, dict).
+
+Lakukan assertion pada nilai output menggunakan perhitungan manual yang diverifikasi atau ekspektasi yang jelas (assertEqual, assertAlmostEqual).
+
+Pastikan fungsi-fungsi internal yang mungkin dipanggil (misalnya utils.to_float_or_none) tetap diizinkan berjalan karena itu bagian dari logika perhitungan inti, atau di-mock jika mereka memiliki side effects yang tidak diinginkan.
+
+Contoh Test Case (untuk _calculate_rsi):
+
+test_calculate_rsi_normal_calculation(): Memverifikasi perhitungan RSI yang benar pada data yang ideal.
+
+test_calculate_rsi_not_enough_data(): Memastikan DataFrame kosong atau Series dengan NaN dikembalikan jika data tidak mencukupi.
+
+test_calculate_rsi_empty_dataframe_input(): Menguji jika input adalah DataFrame kosong.
+
+test_calculate_rsi_decimal_input_conversion(): Memastikan Decimal di-handle dengan benar.
+
+2. Fungsi Deteksi Pola/Level Lanjutan
+Fungsi-fungsi ini memanggil fungsi perhitungan dasar (dari kategori 1) dan berinteraksi dengan database_manager untuk menyimpan/mengambil data.
+
+Fungsi yang Diuji:
+
+
+_detect_new_fair_value_gaps_historically lulus
+
+_detect_new_order_blocks_historically lulus
+
+_detect_new_sr_levels_historically lulus
+
+_detect_new_supply_demand_zones_historically lulus 
+
+_detect_new_liquidity_zones_historically lulus 
+
+_detect_new_fibonacci_levels_historically lulus
+
+_detect_new_market_structure_events_historically lulus
+
+_detect_new_previous_high_low_historically lulus
+
+
+
+_detect_new_divergences_historically lulus
+
+
+_detect_and_save_rsi_historically lulus 
+
+_detect_and_save_macd_historically lulus
+
+_detect_ma_crossover_signals_historically lulus 
+
+_detect_overbought_oversold_conditions_historically lulus
+
+update_volume_profiles lulus
+
+Strategi Test:
+
+Mock Fungsi Perhitungan Internal: Saat menguji _detect_new_divergences_historically, fungsi seperti _calculate_rsi, _calculate_macd, dan _calculate_swing_highs_lows_internal sebaiknya di-mock. Kita akan mengontrol output dari fungsi-fungsi mock ini untuk menciptakan skenario yang memicu deteksi (misalnya, swing point yang jelas, nilai RSI/MACD yang menunjukkan divergensi). Ini memungkinkan kita menguji hanya logika deteksi divergensi, bukan logika perhitungan indikator.
+
+Mock Panggilan DB: mock_db_manager.get_* untuk skenario awal (misalnya, tidak ada deteksi yang sudah ada) dan mock_db_manager.save_*_batch untuk memverifikasi bahwa data yang benar telah dikirim untuk disimpan.
+
+Uji skenario di mana pola terdeteksi, tidak terdeteksi, dan edge cases (misalnya, candle sangat sedikit, NaN dalam input).
+
+Contoh Test Case (untuk _detect_new_fair_value_gaps_historically):
+
+test_detect_new_fair_value_gaps_historically_normal_bullish_fvg(): Memverifikasi deteksi FVG bullish pada pola candle yang jelas. Mock _calculate_fvg_internal untuk mengembalikan FVG yang terdeteksi. Assert bahwa save_fair_value_gaps_batch dipanggil dengan data FVG yang benar.
+
+test_detect_new_fair_value_gaps_historically_no_fvg_detected(): Memastikan tidak ada FVG yang disimpan jika _calculate_fvg_internal tidak mendeteksi apa pun.
+
+test_detect_new_fair_value_gaps_historically_empty_candles(): Menguji penanganan input DataFrame kosong.
+
+test_detect_new_fair_value_gaps_historically_existing_fvg_deduplication(): Memastikan FVG yang sudah ada di DB tidak disimpan lagi.
+
+3. Fungsi Pembaruan Status Detektor
+Fungsi-fungsi ini mengambil entitas yang sudah ada dari DB, memeriksa interaksinya dengan data candle terbaru, dan memperbarui statusnya di DB.
+
+Fungsi yang Diuji:
+
+_update_existing_divergences_status lulus 
+
+_update_existing_fair_value_gaps_status lulus
+
+_update_existing_liquidity_zones_status lulus 
+
+_update_existing_order_blocks_status lulus
+
+_update_existing_fibonacci_levels_status lulus 
+
+_update_existing_sr_levels_status lulus
+
+Strategi Test:
+
+Mock database_manager.get_*: Untuk mengembalikan daftar entitas "aktif" yang sudah ada (misalnya, FVG yang belum terisi).
+
+Mock database_manager.save_*_batch atau save_*: Untuk memverifikasi bahwa entitas yang diperbarui telah dikirim untuk disimpan dengan status yang benar (misalnya, FVG menjadi is_filled=True).
+
+Sediakan DataFrame candle terbaru yang akan memicu perubahan status (misalnya, candle yang mengisi FVG).
+
+Uji skenario di mana status berubah (misalnya, fill, mitigate, tap), tidak berubah, dan edge cases.
+
+Contoh Test Case (untuk _update_existing_fair_value_gaps_status):
+
+test_update_existing_fair_value_gaps_status_fvg_filled(): Memverifikasi bahwa FVG ditandai filled ketika candle baru menembusnya. Mock get_fair_value_gaps untuk mengembalikan FVG aktif, dan sediakan candle yang mengisi FVG tersebut.
+
+test_update_existing_fair_value_gaps_status_fvg_retested(): Memverifikasi bahwa retest_count bertambah dan last_retest_time_utc diperbarui ketika FVG diuji tetapi tidak terisi.
+
+test_update_existing_fair_value_gaps_status_no_change(): Memastikan tidak ada update jika tidak ada interaksi relevan.
+
+test_update_existing_fair_value_gaps_status_empty_active_fvgs(): Menguji jika tidak ada FVG aktif di DB.
+
+4. Fungsi Utama Orkestrasi & Inisialisasi
+Fungsi-fungsi ini mengoordinasikan panggilan ke banyak fungsi lain, termasuk interaksi dengan MT5 Connector.
+
+Fungsi yang Diuji:
+
+update_daily_open_prices_logic lulus
+
+calculate_and_update_session_data lulus
+
+update_all_historical_candles
+
+_detect_yearly_extremes lulus
+
+get_trend_context_from_ma lulus
+
+backfill_historical_features
+
+_backfill_worker_thread
+
+_backfill_single_timeframe_features
+
+identify_key_levels_across_timeframes  lulus
+
+_consolidate_and_prioritize_order_blocks  lulus 
+
+_consolidate_and_prioritize_sr_levels lulus
+
+
+
+AIzaSyAY7HyAylW02ZE8S4SRTqfAQfxhPdtjJpE gemini api

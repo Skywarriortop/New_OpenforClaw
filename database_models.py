@@ -536,6 +536,32 @@ class NewsArticle(Base):
         Index('idx_news_article_source', 'source'),
     )
 
+class TradeJournal(Base):
+    __tablename__ = 'trade_journal'
+
+    id = Column(Integer, primary_key=True, index=True)
+
+    symbol = Column(String, index=True)
+    timeframe = Column(String)
+
+    entry_price = Column(Float)
+    stop_loss = Column(Float)
+    take_profit = Column(Float)
+
+    indicator_snapshot = Column(JSON)
+    news_sentiment = Column(String)
+
+    ai_reasoning = Column(String)
+    ai_confidence = Column(Float)
+
+    profit_loss = Column(Float)
+    rr = Column(Float)
+    drawdown = Column(Float)
+
+    trade_result = Column(String)
+
+    created_at = Column(DateTime, default=datetime.utcnow)
+
 class FeatureBackfillStatus(Base):
     __tablename__ = 'feature_backfill_status'
     id = Column(Integer, primary_key=True, autoincrement=True)

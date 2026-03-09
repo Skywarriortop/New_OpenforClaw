@@ -24,8 +24,10 @@ import pandas as pd
 import mt5_connector
 import llm_self_diagnoser # <--- PASTIKAN INI DIIMPOR
 import auto_trade_manager
+from openclaw_agent import OpenClawAgent
 
 logger = logging.getLogger(__name__)
+openclaw_agent = OpenClawAgent()
 
 _feature_backfill_completed = False
 
@@ -63,7 +65,7 @@ def daily_summary_report_loop(stop_event: threading.Event, symbol_param: str):
         try:
             logger.info(f"Memicu laporan ringkasan harian untuk {symbol_param}...")
             notification_service.notify_daily_summary(symbol_param)
-            logger.info(f"Laporan ringkasan harian untuk {symbol_param} berhasil dikirim.")
+`            logger.info(f"Laporan ringkasan harian untuk {symbol_param} berhasil dikirim.")
 
         except Exception as e:
             logger.error(f"ERROR (Scheduler - Daily Summary Report): {e}", exc_info=True)
@@ -206,7 +208,28 @@ def llm_self_diagnosis_loop(stop_event: threading.Event, symbol_param: str):
             logger.info("LLM Self-Diagnosis loop menunggu backfill fitur selesai...")
         stop_event.wait(interval)
 
-def _start_data_update_threads(initial_run=False):
+def openclaw_analysis_loop(stop_event: threading.Event):
+
+    interval = 3600 * 6  # setiap 6 jam
+
+    while not stop_event.is_set():
+
+        try:
+
+            logger.info("Menjalankan OpenClaw system analysis")
+
+            result = openclaw_agent.analyze_system()
+
+            logger.info("OpenClaw result:")
+            logger.info(result)
+
+        except Exception as e:
+
+            logger.error(f"ERROR (OpenClaw Analysis): {e}", exc_info=True)
+
+        stop_event.wait(interval)
+
+def _start_data_update_threads(initial_run=Fals`e):
     global _feature_backfill_completed
 
     TASKS = {

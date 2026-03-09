@@ -11,8 +11,11 @@ import notification_service
 import database_manager # Pastikan ini diimpor
 from utils import to_float_or_none, to_iso_format_or_none , to_decimal_or_none, to_utc_datetime_or_none, _get_scalar_from_possibly_ndarray
 import utils
+form trade_journal_service import TradeJournalService
 
 logger = logging.getLogger(__name__)
+
+journal_service = TradeJournalService()
 
 # Set presisi Decimal untuk perhitungan keuangan
 getcontext().prec = 10
@@ -112,17 +115,21 @@ def close_all_open_positions(symbol_param: str):
     """
     logger.info(f"Menerima permintaan untuk menutup semua posisi terbuka untuk {symbol_param}.")
 
-    positions = mt5_connector.get_mt5_positions_raw() # Mengambil posisi sebagai list of dicts
+    positions = mt5_connector.get_mt5_positions_raw()
     if not positions:
         logger.info(f"Tidak ada posisi terbuka untuk {symbol_param} yang perlu ditutup.")
         return True
 
     closed_count = 0
+
     for pos in positions:
+
         if pos.get('symbol') == symbol_param:
+
             ticket = pos.get('ticket')
             volume_to_close = pos.get('volume')
-            pos_type = pos.get('type') # 0 for BUY, 1 for SELL
+            pos_type = pos.get('type')
+
             price_open = utils.to_decimal_or_none(pos.get('price_open'))
             current_sl = utils.to_decimal_or_none(pos.get('sl'))
             current_tp = utils.to_decimal_or_none(pos.get('tp'))
@@ -132,36 +139,62 @@ def close_all_open_positions(symbol_param: str):
                 continue
 
             logger.info(f"Mencoba menutup posisi {pos.get('type')} {volume_to_close} lot untuk {symbol_param} (Ticket: {ticket}).")
+
             result = mt5_connector.close_position(ticket, symbol_param, volume_to_close)
 
-            # --- START MODIFIKASI ---
             if result and result.get('retcode') == mt5_connector.mt5.TRADE_RETCODE_DONE:
-            # --- END MODIFIKASI ---
+
                 logger.info(f"Posisi {ticket} berhasil ditutup: {result.get('comment')}.")
                 closed_count += 1
-                # Hapus status partial TP untuk posisi ini dari memory dan DB
+
+                # -------------------------------
+                # UPDATE TRADE JOURNAL
+                # -------------------------------
+
+                journal_id = _position_partial_tp_status.get(ticket, {}).get("journal_id")
+
+                if journal_id:
+
+                    profit_value = pos.get("profit", 0)
+
+                    journal_service.update_trade_result(
+                        trade_id=journal_id,
+                        profit_loss=float(profit_value),
+                        rr=0,
+                        drawdown=0,
+                        trade_result="win" if profit_value > 0 else "loss",
+                    )
+
+                # -------------------------------
+                # Hapus status partial TP
+                # -------------------------------
+
                 if ticket in _position_partial_tp_status:
                     del _position_partial_tp_status[ticket]
-                # Modifikasi: Hapus juga dari DB
-                database_manager.update_mt5_position_partial_tp_flags(ticket, [], []) # Kirim list kosong untuk menghapus/reset
 
-                # --- MODIFIKASI: Notifikasi untuk penutupan penuh ---
+                database_manager.update_mt5_position_partial_tp_flags(ticket, [], [])
+
+                # -------------------------------
+                # Notifikasi
+                # -------------------------------
+
                 notification_service.notify_trade_status(
                     symbol_param,
                     "BUY" if pos_type == mt5_connector.mt5.POSITION_TYPE_BUY else "SELL",
                     volume_to_close,
-                    price_open, # Harga open
-                    current_sl, # SL saat ini
-                    current_tp, # TP saat ini
+                    price_open,
+                    current_sl,
+                    current_tp,
                     result.get('comment'),
-                    "Closed Fully (All Positions Closed)", # Status baru untuk penutupan ini
+                    "Closed Fully (All Positions Closed)",
                     result.get('deal'),
-                    result.get('price') # Harga penutupan
+                    result.get('price')
                 )
-                # --- AKHIR MODIFIKASI ---
+
             else:
+
                 logger.error(f"Gagal menutup posisi {ticket}: {result.get('comment') if result else 'Unknown error'}.")
-                # Notifikasi kegagalan
+
                 notification_service.notify_trade_status(
                     symbol_param,
                     "BUY" if pos_type == mt5_connector.mt5.POSITION_TYPE_BUY else "SELL",
@@ -171,12 +204,14 @@ def close_all_open_positions(symbol_param: str):
                     current_tp,
                     result.get('comment') if result else 'Unknown error',
                     "Close Failed (All Positions Closed)",
-                    result.get('deal'),
+                    result.get('deal') if result else None,
                     result.get('price') if result else None
                 )
+
     if closed_count > 0:
         logger.info(f"Berhasil menutup {closed_count} posisi untuk {symbol_param}.")
         return True
+
     else:
         logger.warning(f"Tidak ada posisi yang berhasil ditutup untuk {symbol_param}.")
         return False

@@ -1,0 +1,9 @@
+{
+  "confidence_threshold": 0.6,
+  "enabled_pairs": ["XAUUSD"],
+  "indicator_weights": {
+    "RSI": 1.0,
+    "MACD": 1.0,
+    "Bollinger": 1.0
+  }
+}

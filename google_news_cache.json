@@ -1,0 +1,896 @@
+{
+    "timestamp": "2025-07-22T11:43:53.358629+00:00",
+    "news": [
+        {
+            "id": "https://news.google.com/read/CBMiqwFBVV95cUxNM3FLUml6UzZES2lpMHRpS1h3aU5KaDVac0Z2NkJIaktDc01HTlNPdE4wNDlUeEV5LW1BN0xEV19wa3RuSklaSFExdVBrVlYzZkdIdUR2RGJPMVNGbTF4ZndsU1NGSHpsZS1TMWg2UHB0YmhTVmw4OS02blZrTG5yX2NXUHZfUzBuOS1Pb19TRjFHeFZlYTNpUmcxTmlwTHVNQWR1dFl5SXoxWHc?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold hits five-week high as dollar, yields ease; spotlight on trade",
+            "summary": "Gold hits five-week high as dollar, yields ease; spotlight on trade",
+            "url": "https://news.google.com/read/CBMiqwFBVV95cUxNM3FLUml6UzZES2lpMHRpS1h3aU5KaDVac0Z2NkJIaktDc01HTlNPdE4wNDlUeEV5LW1BN0xEV19wa3RuSklaSFExdVBrVlYzZkdIdUR2RGJPMVNGbTF4ZndsU1NGSHpsZS1TMWg2UHB0YmhTVmw4OS02blZrTG5yX2NXUHZfUzBuOS1Pb19TRjFHeFZlYTNpUmcxTmlwTHVNQWR1dFl5SXoxWHc?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T18:58:18+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMitAFBVV95cUxPR0V1MF9Fc3BRUTV6UnpKSURuOTgwWnVBT3VNXzJzSXZZdy05ei1QWEMxZi1wWDc3NjliR1NrbGQ4RFdKVG52MS1oMlFmSHNlektRT2RrbUZEZVp0UmRwRExobDhlSWhSY1U3VUNSTU45eThoTldobXVlVERscF9oQ3RuamNsaC1Md1cwYTk5bEEwUzBlSXNlWFBmZHpmcTh0LVFiWmpfd0Q4YVNWVndxNkI0a3g?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold Holds Gains as Trump Tariff Concerns Reignite Haven Demand",
+            "summary": "Gold Holds Gains as Trump Tariff Concerns Reignite Haven Demand",
+            "url": "https://news.google.com/read/CBMitAFBVV95cUxPR0V1MF9Fc3BRUTV6UnpKSURuOTgwWnVBT3VNXzJzSXZZdy05ei1QWEMxZi1wWDc3NjliR1NrbGQ4RFdKVG52MS1oMlFmSHNlektRT2RrbUZEZVp0UmRwRExobDhlSWhSY1U3VUNSTU45eThoTldobXVlVERscF9oQ3RuamNsaC1Md1cwYTk5bEEwUzBlSXNlWFBmZHpmcTh0LVFiWmpfd0Q4YVNWVndxNkI0a3g?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T09:42:47+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMihAFBVV95cUxNR043eGhZeUliX2c5VExob0pIVnR5b0RXck9CcnJSNGhuam1qSXhVUGI5TUQzLXBINjEzOHFiR0lRMTVJZERWZEREekNDMlNnV290NVpxeGR4Umk4T1pXOXJGUk14SW12dDNGcXg0aWp3eXJ5Zk5Xbmx3U0pkdGJQMm02UE0?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Canned Tuna Market Size Expected to Reach USD 45.17 Bn by 2034 Amid Rising Demand for Protein-Rich, Health-Conscious Foods",
+            "summary": "Canned Tuna Market Size Expected to Reach USD 45.17 Bn by 2034 Amid Rising Demand for Protein-Rich, Health-Conscious Foods",
+            "url": "https://news.google.com/read/CBMihAFBVV95cUxNR043eGhZeUliX2c5VExob0pIVnR5b0RXck9CcnJSNGhuam1qSXhVUGI5TUQzLXBINjEzOHFiR0lRMTVJZERWZEREekNDMlNnV290NVpxeGR4Umk4T1pXOXJGUk14SW12dDNGcXg0aWp3eXJ5Zk5Xbmx3U0pkdGJQMm02UE0?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T10:21:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMizwFBVV95cUxNNmlKZ1ZaWFJudXFUN29DOC1EdHAyWG0wM2pCenloQm03U3NIUTNDRzM4T1lNQWVFY25hbG05VlNUbTYzMHFVUTFPVk1ROTIxbHc5WnBCQjg1VVFHVjVLcjJ5WF90ZzhKQUx6bWVBclExU25zU3NsNWpKUDAtS0lQM0RYOXVnQ19NckRKMjJ6T2Y5SVZxRF9YYXlmeGdUT1RNeDBTQkptNzkwRlMxaGZQQURpdkV4LWxqdWlfVjhaNTNManNSWEkwVEtBM05SRnc?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Commodity Roundup: European gas stabilizes after slide; gold dips as trade talks take center stage",
+            "summary": "Commodity Roundup: European gas stabilizes after slide; gold dips as trade talks take center stage",
+            "url": "https://news.google.com/read/CBMizwFBVV95cUxNNmlKZ1ZaWFJudXFUN29DOC1EdHAyWG0wM2pCenloQm03U3NIUTNDRzM4T1lNQWVFY25hbG05VlNUbTYzMHFVUTFPVk1ROTIxbHc5WnBCQjg1VVFHVjVLcjJ5WF90ZzhKQUx6bWVBclExU25zU3NsNWpKUDAtS0lQM0RYOXVnQ19NckRKMjJ6T2Y5SVZxRF9YYXlmeGdUT1RNeDBTQkptNzkwRlMxaGZQQURpdkV4LWxqdWlfVjhaNTNManNSWEkwVEtBM05SRnc?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T09:48:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMijgFBVV95cUxQcHlpeW8zaG9BZ3hzUU1jQy1GOWlEWEY2dWJYc2RMZk5zamxzQllRSGRXLXg5U1F1MFZFcVQ5VHJRdUtqbmZid3d1Y2VmYTBEMzlUUVE1R2c4ZW5RZ1l5dmZoSEdpd0VsWkpyMUhGVDNvaVNCTkU3UnRRbXBhYWpRcERLZGstblZVbkUxamZn?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold Holds Strong As Tariff Uncertainty Stirs The Market",
+            "summary": "Gold Holds Strong As Tariff Uncertainty Stirs The Market",
+            "url": "https://news.google.com/read/CBMijgFBVV95cUxQcHlpeW8zaG9BZ3hzUU1jQy1GOWlEWEY2dWJYc2RMZk5zamxzQllRSGRXLXg5U1F1MFZFcVQ5VHJRdUtqbmZid3d1Y2VmYTBEMzlUUVE1R2c4ZW5RZ1l5dmZoSEdpd0VsWkpyMUhGVDNvaVNCTkU3UnRRbXBhYWpRcERLZGstblZVbkUxamZn?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T09:38:24+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMijAFBVV95cUxQdjZEU21XSXZQZ2xiN0hLdFBwYkJDLXZ6RkxocXlROTdQNWx2RTdXaS1yMlA2ajNPWGk1eVV1c240YTh5MHN3VFU1bms5RG1IeVo0ZWRaMGoydDJaenJaS0lrbUhoU3p3N3NzaVRFNTZ0VEdBd0dUcG4yQjFsY1hKd0h1dkZmcE5EVjh6NA?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold Price Hits 1-Month High, 'Cut Rates' Say Trump and Fed's Waller",
+            "summary": "Gold Price Hits 1-Month High, 'Cut Rates' Say Trump and Fed's Waller",
+            "url": "https://news.google.com/read/CBMijAFBVV95cUxQdjZEU21XSXZQZ2xiN0hLdFBwYkJDLXZ6RkxocXlROTdQNWx2RTdXaS1yMlA2ajNPWGk1eVV1c240YTh5MHN3VFU1bms5RG1IeVo0ZWRaMGoydDJaenJaS0lrbUhoU3p3N3NzaVRFNTZ0VEdBd0dUcG4yQjFsY1hKd0h1dkZmcE5EVjh6NA?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T13:49:19+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMimAFBVV95cUxOWUtDSVEwZkZXR2piOXZtMWd3QmhLNUV6SW5VbWVUUS1CdjZMQmtqYURBMU02bi1JdTBWbHkxaUkyb3hlMXNqMWdIRkxVZVIzeU9DMkRUREhkQWRpM3lEU2I5YXVkOWF5X21zV1dxVEtoamJDZEQxcl9LYnZpSFNwdnZDaE9haDBueU53YWVEeTlRSnM4dmU3QQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "China gold market update: Strong investment in H1 | Post by Ray Jia | Gold Focus blog",
+            "summary": "China gold market update: Strong investment in H1 | Post by Ray Jia | Gold Focus blog",
+            "url": "https://news.google.com/read/CBMimAFBVV95cUxOWUtDSVEwZkZXR2piOXZtMWd3QmhLNUV6SW5VbWVUUS1CdjZMQmtqYURBMU02bi1JdTBWbHkxaUkyb3hlMXNqMWdIRkxVZVIzeU9DMkRUREhkQWRpM3lEU2I5YXVkOWF5X21zV1dxVEtoamJDZEQxcl9LYnZpSFNwdnZDaE9haDBueU53YWVEeTlRSnM4dmU3QQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-16T11:58:15+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMitgFBVV95cUxQMzlsNWZWZlQxRDNnVXFlbW1NYWVULUtjMEpHQ0V0OWtORWlyLVFmM1ZrYzE5VGc0RzkteDU0c2dFMnJlV0MwUzJvTEtxaTZuZDVQSFdzaEUwcGRUejRPZlRUUDJpVTRmeTJJZ3F0TV9lWFkyWjJpSzZxbjdCdUtpVHdVY1diN3RJMWttN0VRUUlYeXNYM04wd2dZVURvQ2d4aTNRWjFrZUNTMlRpc2NYUklsLUVwUdIBuwFBVV95cUxNWVlaeUp5MjFWWjg4MUQ2WDBMUUNCOWJXRmU4ekJ3WFoweldwZFBhbTFaYjZOYmlPZUtiSDF1bU9DZ2V6RC1xUk9DU3hWOVNvakt5UUdVbUVMSjEwV0g3U2RwOWJjRHdfOWFQVG8tNTltWXNUc3ZRQnc4SHAtN3RualBmSzFxRS1GelhZcjRlRTBtTG9BenhTSWlrd01OUlh1OVVIOTNPLVNIQzNnZEdsc2lwUDJ3Y1RKdEtV?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold price remains subdued $3,400, downside seems limited due to ongoing trade concerns",
+            "summary": "Gold price remains subdued $3,400, downside seems limited due to ongoing trade concerns",
+            "url": "https://news.google.com/read/CBMitgFBVV95cUxQMzlsNWZWZlQxRDNnVXFlbW1NYWVULUtjMEpHQ0V0OWtORWlyLVFmM1ZrYzE5VGc0RzkteDU0c2dFMnJlV0MwUzJvTEtxaTZuZDVQSFdzaEUwcGRUejRPZlRUUDJpVTRmeTJJZ3F0TV9lWFkyWjJpSzZxbjdCdUtpVHdVY1diN3RJMWttN0VRUUlYeXNYM04wd2dZVURvQ2d4aTNRWjFrZUNTMlRpc2NYUklsLUVwUdIBuwFBVV95cUxNWVlaeUp5MjFWWjg4MUQ2WDBMUUNCOWJXRmU4ekJ3WFoweldwZFBhbTFaYjZOYmlPZUtiSDF1bU9DZ2V6RC1xUk9DU3hWOVNvakt5UUdVbUVMSjEwV0g3U2RwOWJjRHdfOWFQVG8tNTltWXNUc3ZRQnc4SHAtN3RualBmSzFxRS1GelhZcjRlRTBtTG9BenhTSWlrd01OUlh1OVVIOTNPLVNIQzNnZEdsc2lwUDJ3Y1RKdEtV?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T08:58:52+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiZ0FVX3lxTFB4RWE2V3NjX2MyWmJTMUtKR0xab2puY2NDODh0ZU1qVVlYWHhSXzQzUzRnMmlaRlgzd243N1FVQzlFSXM4UVNfUmd4VlI5TWN2eXcwLUkxXzVQR01Hd01HaERpRC1SbEE?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Composite Panels Market To Surpass USD 22.3 Bn by 2034",
+            "summary": "Composite Panels Market To Surpass USD 22.3 Bn by 2034",
+            "url": "https://news.google.com/read/CBMiZ0FVX3lxTFB4RWE2V3NjX2MyWmJTMUtKR0xab2puY2NDODh0ZU1qVVlYWHhSXzQzUzRnMmlaRlgzd243N1FVQzlFSXM4UVNfUmd4VlI5TWN2eXcwLUkxXzVQR01Hd01HaERpRC1SbEE?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T08:08:59+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMisAFBVV95cUxNS0RBX3RPSklqa1FWVlBLSTNib192REIya1VEUjdLM09MaFBWVHA1TDlFRS1DWjF0WXViLVFjdEFFWmxZVERDQUpGMVJ1Q3pOaGlpalJfX1dCM2M0UlN3UUNRYzdRQ2R5YTFXRUNaajlvZjAxSWpLUVdwR25yOThNTDJiUVpSYldhZVJjUTlGc1Q0Wkk4OTJOS1dvbUFVVncwanNWVXRNLVptdTNiRWtXYQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold Market at a Crossroads: Key Bullish and Bearish Factors to Watch This Week",
+            "summary": "Gold Market at a Crossroads: Key Bullish and Bearish Factors to Watch This Week",
+            "url": "https://news.google.com/read/CBMisAFBVV95cUxNS0RBX3RPSklqa1FWVlBLSTNib192REIya1VEUjdLM09MaFBWVHA1TDlFRS1DWjF0WXViLVFjdEFFWmxZVERDQUpGMVJ1Q3pOaGlpalJfX1dCM2M0UlN3UUNRYzdRQ2R5YTFXRUNaajlvZjAxSWpLUVdwR25yOThNTDJiUVpSYldhZVJjUTlGc1Q0Wkk4OTJOS1dvbUFVVncwanNWVXRNLVptdTNiRWtXYQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T02:18:58+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMivgFBVV95cUxQYkd5NnFJZlFxb01VVklPNEZ1NEZfRG9hTzVRNVdYTHFzaUFlS05YdV90Q0YxRlZGWGJVLVRzRUVZZDk1WXRKZUVoZWFCTGVEZUtBX29iNFZFTEhVeEFkOUR6MlE5NXR3c3hnb3pXNVNjVkc0aWlXYm9lV3pVU2RtUmlVRmtTcFRCV0M1TjRKQzZoVFZRd28xOFNmSVo2elMzZDBuUzhwV05HcEliQTBLSVJBeG16U2JrX25LWHZ3?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold (XAUUSD) & Silver Price Forecast: Fed Pause, Trade Tensions Fuel Demand",
+            "summary": "Gold (XAUUSD) & Silver Price Forecast: Fed Pause, Trade Tensions Fuel Demand",
+            "url": "https://news.google.com/read/CBMivgFBVV95cUxQYkd5NnFJZlFxb01VVklPNEZ1NEZfRG9hTzVRNVdYTHFzaUFlS05YdV90Q0YxRlZGWGJVLVRzRUVZZDk1WXRKZUVoZWFCTGVEZUtBX29iNFZFTEhVeEFkOUR6MlE5NXR3c3hnb3pXNVNjVkc0aWlXYm9lV3pVU2RtUmlVRmtTcFRCV0M1TjRKQzZoVFZRd28xOFNmSVo2elMzZDBuUzhwV05HcEliQTBLSVJBeG16U2JrX25LWHZ3?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T08:25:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi_wFBVV95cUxPVGwxLXV5U0JrMXJ6bnZrTXRuVFpOSEx5TEFlSjBHaWQ4Uno5RkJDTGNGdDg0N2tEeDRPV3NxYTNGcVRncVI4RFNyRHZKS0ZpSGxrdFlzaW13YjhhOEN2YlZhNmZVT3NwVUFfRmxmenVOc2dMVTJwNUkxUHpISktqWTVWeWZZRlNiLXlnU1ZCLVlTZXF0OHRrXzd6X01kanRWdGM1TWFnOWtNdExVZm1meXFaN3BLYzRVTHpqRGhPOXVyQ3NvZkk2YzZ2eWk0aDRTR0hyUDQ3V21HRUwwTUsxWWJhTnNQREQ4LXdtREo2U1JLbF9fNG81N1RXTF9WcjQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "AI Smart Glasses Market Size to Hit USD 3.01 billion by 2032, at 11.09% CAGR | Research by SNS Insider",
+            "summary": "AI Smart Glasses Market Size to Hit USD 3.01 billion by 2032, at 11.09% CAGR | Research by SNS Insider",
+            "url": "https://news.google.com/read/CBMi_wFBVV95cUxPVGwxLXV5U0JrMXJ6bnZrTXRuVFpOSEx5TEFlSjBHaWQ4Uno5RkJDTGNGdDg0N2tEeDRPV3NxYTNGcVRncVI4RFNyRHZKS0ZpSGxrdFlzaW13YjhhOEN2YlZhNmZVT3NwVUFfRmxmenVOc2dMVTJwNUkxUHpISktqWTVWeWZZRlNiLXlnU1ZCLVlTZXF0OHRrXzd6X01kanRWdGM1TWFnOWtNdExVZm1meXFaN3BLYzRVTHpqRGhPOXVyQ3NvZkk2YzZ2eWk0aDRTR0hyUDQ3V21HRUwwTUsxWWJhTnNQREQ4LXdtREo2U1JLbF9fNG81N1RXTF9WcjQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T06:06:06+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMijwFBVV95cUxQZHRSWmVmNXItWE9HNXlqUUEyS19JZFd3bXhzb1ZZYmE2XzJMTVJ2NGwtSS1XOGNpa0JESUMteUtmSC14SmZucU5JQmF4MjFIYUhGZXQ1emVjOHdGVFpFMmNrRGw0VHlMaWE2UEVteUZIV29LcThPNGdJSEZIY3pOaWdEcGJRNGlIR0hVV3Ribw?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Could gold prices reach $3,500 per ounce this July? Experts weigh in",
+            "summary": "Could gold prices reach $3,500 per ounce this July? Experts weigh in",
+            "url": "https://news.google.com/read/CBMijwFBVV95cUxQZHRSWmVmNXItWE9HNXlqUUEyS19JZFd3bXhzb1ZZYmE2XzJMTVJ2NGwtSS1XOGNpa0JESUMteUtmSC14SmZucU5JQmF4MjFIYUhGZXQ1emVjOHdGVFpFMmNrRGw0VHlMaWE2UEVteUZIV29LcThPNGdJSEZIY3pOaWdEcGJRNGlIR0hVV3Ribw?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T15:05:01+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiiAFBVV95cUxPa21ncG1ONG1EZ0J4QUZrRWkwczNsZ0lvbmdYNl81WkNETnJpWFpOR2ZMSjBxNVQ2allXaVZWRTNFZXFtdlNackR3UmI0c0VseFYwdUZ6OXdLS2cxTlBDS0EtYTNfZ0pPMDdFU1FQWU5TLUNOaVoyc09MX2pTV2drcFpMNUoxZ1Vu?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold prices hover near one-month high",
+            "summary": "Gold prices hover near one-month high",
+            "url": "https://news.google.com/read/CBMiiAFBVV95cUxPa21ncG1ONG1EZ0J4QUZrRWkwczNsZ0lvbmdYNl81WkNETnJpWFpOR2ZMSjBxNVQ2allXaVZWRTNFZXFtdlNackR3UmI0c0VseFYwdUZ6OXdLS2cxTlBDS0EtYTNfZ0pPMDdFU1FQWU5TLUNOaVoyc09MX2pTV2drcFpMNUoxZ1Vu?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T08:37:41+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMitAFBVV95cUxNLXRHWE1iMFJwZU1UWGVFb05Hc3lfdG5OT2d3Yy1tY1JvUzJnblBucjhLNVE2SGRWS002WDNhZE5oYkpwcEVLM1gtOENkNlgwSmpPZUQ0LWJsZGN4WDN0Zm5SNkU3RXRTdlFZRjZRTTg0bFltdDZmWDRXZjlJRkJPQkpyaXBnV3gyVy1MR0owbUU2QXNPa2NEYVhGTG41NXpfZ1ljMk9yZmVwdXZUSUZwbmJKWjk?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold Rises With US Interest-Rate Cuts and Tariff Agenda in Focus",
+            "summary": "Gold Rises With US Interest-Rate Cuts and Tariff Agenda in Focus",
+            "url": "https://news.google.com/read/CBMitAFBVV95cUxNLXRHWE1iMFJwZU1UWGVFb05Hc3lfdG5OT2d3Yy1tY1JvUzJnblBucjhLNVE2SGRWS002WDNhZE5oYkpwcEVLM1gtOENkNlgwSmpPZUQ0LWJsZGN4WDN0Zm5SNkU3RXRTdlFZRjZRTTg0bFltdDZmWDRXZjlJRkJPQkpyaXBnV3gyVy1MR0owbUU2QXNPa2NEYVhGTG41NXpfZ1ljMk9yZmVwdXZUSUZwbmJKWjk?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T16:01:43+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMikAFBVV95cUxPT3ZsS1lyN3loM0dpa3J0SzZTTVkwNU40WXItR3dMeTNDcnV1NWluT3BlWDk5Q21jcnN3SFAxbW9zcjE4Rko3Z1NOb2ZQcGw1cG1uRFVzTURUNnZEdzhQdnBBRWNibEFObWZabFVlelZWcjRVMEswNEJsM2lKU25LdGJpbElDck5lVU5KS25GNGk?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Zacks Investment Ideas feature highlights: SPDR Gold Shares ETF, Agnico Eagle Mines, Kinross Gold, AngloGold Ashanti and Aris Mining",
+            "summary": "Zacks Investment Ideas feature highlights: SPDR Gold Shares ETF, Agnico Eagle Mines, Kinross Gold, AngloGold Ashanti and Aris Mining",
+            "url": "https://news.google.com/read/CBMikAFBVV95cUxPT3ZsS1lyN3loM0dpa3J0SzZTTVkwNU40WXItR3dMeTNDcnV1NWluT3BlWDk5Q21jcnN3SFAxbW9zcjE4Rko3Z1NOb2ZQcGw1cG1uRFVzTURUNnZEdzhQdnBBRWNibEFObWZabFVlelZWcjRVMEswNEJsM2lKU25LdGJpbElDck5lVU5KS25GNGk?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T07:06:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMikgFBVV95cUxQOW1Tdkg2OS1Rb3YwMmhmUG5lM004N0daTWJELXlHcWNieFRuVW0xYmd2NlRpNWlrQm5XZzJKTVBTM0VrZ3lIdXRrZEJoRHFqaTUtS3NMblFKU3Y4azU4R1RpeEo5Z1JUZFktbTBjelhCRm9RNHRzYjI2aXhuUVBvZFJGVzhvSUdqMWpNRW9OZDdlQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "[Latest] Global Naphthalene Sulfonate Market Size/Share Worth USD 1,113.50 Million by 2034 at a 3.16% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+            "summary": "[Latest] Global Naphthalene Sulfonate Market Size/Share Worth USD 1,113.50 Million by 2034 at a 3.16% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+            "url": "https://news.google.com/read/CBMikgFBVV95cUxQOW1Tdkg2OS1Rb3YwMmhmUG5lM004N0daTWJELXlHcWNieFRuVW0xYmd2NlRpNWlrQm5XZzJKTVBTM0VrZ3lIdXRrZEJoRHFqaTUtS3NMblFKU3Y4azU4R1RpeEo5Z1JUZFktbTBjelhCRm9RNHRzYjI2aXhuUVBvZFJGVzhvSUdqMWpNRW9OZDdlQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T04:30:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi1wFBVV95cUxPR3kya0QwSVJPLXQ5U2JjSEFHM1VIajE4ZXpZel9OU2k1cWo4dmxyTXc3ekJ0Q2lDQ1hjRHFmMWg3SmlsOFN0OTM0aEp4c1FwSkk0dHRtd09tcmNsVk1lSmRRWFdCVm9vQTFtbUdWT20yUkZWTU43dmdwR200UFJSU0NmN3F1OVdsMzd5WS1rUDNveGhHSmNEX00taldEeURRLU1qb0ZfOUJUcVViQk41RTRQakd6OFI2RWZpNXU1U0E3ZWdjS211YmR1b2JBUGlzY0FxdkJYNA?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold price today, Monday, July 21: Gold hits new high for the month",
+            "summary": "Gold price today, Monday, July 21: Gold hits new high for the month",
+            "url": "https://news.google.com/read/CBMi1wFBVV95cUxPR3kya0QwSVJPLXQ5U2JjSEFHM1VIajE4ZXpZel9OU2k1cWo4dmxyTXc3ekJ0Q2lDQ1hjRHFmMWg3SmlsOFN0OTM0aEp4c1FwSkk0dHRtd09tcmNsVk1lSmRRWFdCVm9vQTFtbUdWT20yUkZWTU43dmdwR200UFJSU0NmN3F1OVdsMzd5WS1rUDNveGhHSmNEX00taldEeURRLU1qb0ZfOUJUcVViQk41RTRQakd6OFI2RWZpNXU1U0E3ZWdjS211YmR1b2JBUGlzY0FxdkJYNA?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T11:53:28+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiigFBVV95cUxQZTE4dmt2NHB5UlNEYndBZXY1V1ZHVlYwYW5ieXV2eERnN0lPTDlfeGRYQWNMTVJQYTFpUzk3ZXIxUnFqbkdfTy03S2hyTkFjd2Z3ZC1ZNS14Nm9rSHN6Ti1wQ3ZkMHlFUGJ2aVEwekc2MDhuX3B0RDhBWmRFUm9QZEtDTEY1LVlfVWc?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "[Latest] Global Camel Milk Products Market Size/Share Worth USD 34.90 Billion by 2034 at a 9.44% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+            "summary": "[Latest] Global Camel Milk Products Market Size/Share Worth USD 34.90 Billion by 2034 at a 9.44% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+            "url": "https://news.google.com/read/CBMiigFBVV95cUxQZTE4dmt2NHB5UlNEYndBZXY1V1ZHVlYwYW5ieXV2eERnN0lPTDlfeGRYQWNMTVJQYTFpUzk3ZXIxUnFqbkdfTy03S2hyTkFjd2Z3ZC1ZNS14Nm9rSHN6Ti1wQ3ZkMHlFUGJ2aVEwekc2MDhuX3B0RDhBWmRFUm9QZEtDTEY1LVlfVWc?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T08:30:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMijwFBVV95cUxObjZNU0RGRGNfVDcxSzdnVktqWXF5eHRBcHZiMXd4TVppZEFsY1g5S25Pbm5kcTN5ZGtacWdWLUR1RUhPZ1lUWThjMFc3R0RFamFKQUZFT0ppdUFxSXhOeU5aTTBNU2FsdVNfSFpUQlo4WEFadVBwOXQ2NmN1UFRQMVVET0VhWHpXNDZmNlUyOA?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "[Latest] Global Cardiac Tissue Engineering Market Size/Share Worth USD 2,943.92 Million by 2034 at a 16.65% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+            "summary": "[Latest] Global Cardiac Tissue Engineering Market Size/Share Worth USD 2,943.92 Million by 2034 at a 16.65% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+            "url": "https://news.google.com/read/CBMijwFBVV95cUxObjZNU0RGRGNfVDcxSzdnVktqWXF5eHRBcHZiMXd4TVppZEFsY1g5S25Pbm5kcTN5ZGtacWdWLUR1RUhPZ1lUWThjMFc3R0RFamFKQUZFT0ppdUFxSXhOeU5aTTBNU2FsdVNfSFpUQlo4WEFadVBwOXQ2NmN1UFRQMVVET0VhWHpXNDZmNlUyOA?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T16:30:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiowFBVV95cUxNZzFremlHVEhFMHlxck1yMm5GRU1sQWRxQlA1RHlUd2M3NURTb3AyWHhkbzk1aWR4Zy05eGMwTTVaaVZSbF9UNWc4NGhMMnhBLXYzaG9VRE9JckkzT3gxbF8xQm9fMElTeUZFTUdkV05fY3htaFQtVUhHc0RaSjAycUhITG8xcl9HTTV3dG5nQWwtd3l3ckdHZ1hRaFFsVmMwYUE4?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold pares gains after Trump shoots down talk of ousting Powell",
+            "summary": "Gold pares gains after Trump shoots down talk of ousting Powell",
+            "url": "https://news.google.com/read/CBMiowFBVV95cUxNZzFremlHVEhFMHlxck1yMm5GRU1sQWRxQlA1RHlUd2M3NURTb3AyWHhkbzk1aWR4Zy05eGMwTTVaaVZSbF9UNWc4NGhMMnhBLXYzaG9VRE9JckkzT3gxbF8xQm9fMElTeUZFTUdkV05fY3htaFQtVUhHc0RaSjAycUhITG8xcl9HTTV3dG5nQWwtd3l3ckdHZ1hRaFFsVmMwYUE4?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-16T18:12:13+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiogFBVV95cUxQaWs2bWoxaVhzT1NmVVBGSXNEUVZhSVBmTmFIYWF3UVlmbVpiQ21kRE9TZC0wNWN2ckRqcmxOaVM5X240YlJBZjdaMXBaZnZ3YUpvMVMtSm5hMDFqX0cyREpRMTk0YWlGVzZ0bm9NWFpZMU5QS3p3VllpSllGSHp1ZjNpUGRtZXJjZ3NlSVEwM2JGRU5sVHpmb0QwRUNIOE5tekE?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Candi Solar raises USD 24m to boost market presence, offering",
+            "summary": "Candi Solar raises USD 24m to boost market presence, offering",
+            "url": "https://news.google.com/read/CBMiogFBVV95cUxQaWs2bWoxaVhzT1NmVVBGSXNEUVZhSVBmTmFIYWF3UVlmbVpiQ21kRE9TZC0wNWN2ckRqcmxOaVM5X240YlJBZjdaMXBaZnZ3YUpvMVMtSm5hMDFqX0cyREpRMTk0YWlGVzZ0bm9NWFpZMU5QS3p3VllpSllGSHp1ZjNpUGRtZXJjZ3NlSVEwM2JGRU5sVHpmb0QwRUNIOE5tekE?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T09:04:46+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMitAFBVV95cUxNb0JGU2dGTWdqcHpRaDFTTXFoNjBHTVI4SnAyZm9WN21ESUpqR3ZINnV4WEl4Vl90RDNtQVlBZ3E1TEdkaDdLRWNGaGQ2QjMyNTFYdVBYTEQ2N1lRY09UWVRGNVVjaDdlbk1oVXBzaXlJdXlyNGUyMkZ4WVZrYWpvV2FIaE1MdUxxem1OZjR0MWIwTkE2Vm1GNEpsalcwV2lrQVVlak5JOHlQMmxJNkVyQXEtVDI?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold market analysis for July 21 - key intra-day price entry levels for active traders",
+            "summary": "Gold market analysis for July 21 - key intra-day price entry levels for active traders",
+            "url": "https://news.google.com/read/CBMitAFBVV95cUxNb0JGU2dGTWdqcHpRaDFTTXFoNjBHTVI4SnAyZm9WN21ESUpqR3ZINnV4WEl4Vl90RDNtQVlBZ3E1TEdkaDdLRWNGaGQ2QjMyNTFYdVBYTEQ2N1lRY09UWVRGNVVjaDdlbk1oVXBzaXlJdXlyNGUyMkZ4WVZrYWpvV2FIaE1MdUxxem1OZjR0MWIwTkE2Vm1GNEpsalcwV2lrQVVlak5JOHlQMmxJNkVyQXEtVDI?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T12:25:47+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiowFBVV95cUxQbFotRHBzRVNLWmV5czBydDh6TlNuUE5feUQyamNKUzloTi1nUFI3R3FQZmpUa1lGZUtYcXBhVlk4RVE3WHo3akdyd0F2MUhkNnJIUU5YWjJMc0VKajVSbnE0V3NrZWRrbGNUTENHaFFUVVo1Q21MeU5tVWozNHphbk9EdnFfWklsR3M1UkZnX3l5YkxzUmpSZGxVdU56blVoYlFr?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Important signal for Gold Trade! According to ChatGPT, this is the best time to buy Gold.",
+            "summary": "Important signal for Gold Trade! According to ChatGPT, this is the best time to buy Gold.",
+            "url": "https://news.google.com/read/CBMiowFBVV95cUxQbFotRHBzRVNLWmV5czBydDh6TlNuUE5feUQyamNKUzloTi1nUFI3R3FQZmpUa1lGZUtYcXBhVlk4RVE3WHo3akdyd0F2MUhkNnJIUU5YWjJMc0VKajVSbnE0V3NrZWRrbGNUTENHaFFUVVo1Q21MeU5tVWozNHphbk9EdnFfWklsR3M1UkZnX3l5YkxzUmpSZGxVdU56blVoYlFr?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T05:42:14+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMihgFBVV95cUxOeTdvbHVpM2pHcTVMbTYyUGVmb3ZzWWNPVVZBaExpTWwwT0J0N0ZKNWEyTENoTDBPWFlFdGpXQlFnUVdoN3kzMVlvbzV2bUtrY0k3YVh2andtVVZPNFEwYzFXTFBBdUJkNFlEeFVkN0ZtNy1FUXdfZWx0R0VRZ2xmSDZrSWNBdw?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Managed Services Market to Reach USD 990,611.47 Million by 2032, Growing at a CAGR of 14.5%: Credence Research",
+            "summary": "Managed Services Market to Reach USD 990,611.47 Million by 2032, Growing at a CAGR of 14.5%: Credence Research",
+            "url": "https://news.google.com/read/CBMihgFBVV95cUxOeTdvbHVpM2pHcTVMbTYyUGVmb3ZzWWNPVVZBaExpTWwwT0J0N0ZKNWEyTENoTDBPWFlFdGpXQlFnUVdoN3kzMVlvbzV2bUtrY0k3YVh2andtVVZPNFEwYzFXTFBBdUJkNFlEeFVkN0ZtNy1FUXdfZWx0R0VRZ2xmSDZrSWNBdw?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T16:58:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMijAFBVV95cUxNa2JpYmhOazJSdWM1WmpyVFF5UVgtU09jelRSY1FJQm5jVE5mWlJvWnlvRGdEYkFMejMzWnBybjRFV1V3LUgzTmY1R011cHZ0ekdTTy13eGpyWXpJN0p2UGNIOGpsb180YW9VaTNwa3hMNmxoazVRYmhDYzlTTDc2cUs3RXFrVWpQakN1Rg?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Specialty Food Ingredients Market Size Worth USD 179.87 Billion by 2034| China and India Lead the Charge",
+            "summary": "Specialty Food Ingredients Market Size Worth USD 179.87 Billion by 2034| China and India Lead the Charge",
+            "url": "https://news.google.com/read/CBMijAFBVV95cUxNa2JpYmhOazJSdWM1WmpyVFF5UVgtU09jelRSY1FJQm5jVE5mWlJvWnlvRGdEYkFMejMzWnBybjRFV1V3LUgzTmY1R011cHZ0ekdTTy13eGpyWXpJN0p2UGNIOGpsb180YW9VaTNwa3hMNmxoazVRYmhDYzlTTDc2cUs3RXFrVWpQakN1Rg?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T15:00:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiwgFBVV95cUxPNUY1cC1TWVBJa1VWTVBCQlE3TF9pZ0dkNHhtcWpfMjYyelJHRmZ2NXJRM3lFeTdNQXd5ZHY0eVJ3T1V0bWlST3RyQTNtVkR3dy1SR2RhdXRqdXNpdmpsUkdoRm1LZ3E5ZkJhdU5qNHZsMGdFa1lERnF4MTBYNlYxek53eWVzaEtXeVQ3RkU5RlM4dmVCMTVxc3BLcWtHYy1Fd2g0cklrT0ZDM1ZXeGoyemJURFdXWUNXdGZjXzQ0ZVlrZw?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "China may be secretly stockpiling gold. Why that spells trouble for the U.S. dollar.",
+            "summary": "China may be secretly stockpiling gold. Why that spells trouble for the U.S. dollar.",
+            "url": "https://news.google.com/read/CBMiwgFBVV95cUxPNUY1cC1TWVBJa1VWTVBCQlE3TF9pZ0dkNHhtcWpfMjYyelJHRmZ2NXJRM3lFeTdNQXd5ZHY0eVJ3T1V0bWlST3RyQTNtVkR3dy1SR2RhdXRqdXNpdmpsUkdoRm1LZ3E5ZkJhdU5qNHZsMGdFa1lERnF4MTBYNlYxek53eWVzaEtXeVQ3RkU5RlM4dmVCMTVxc3BLcWtHYy1Fd2g0cklrT0ZDM1ZXeGoyemJURFdXWUNXdGZjXzQ0ZVlrZw?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-19T14:12:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMimAFBVV95cUxQd0FJTkE4aTFlTmh3cGhNZEtxMjYzUlVtMUEyQ1BBRXBuR1RwV0xVbXhpOEZKb1R6MG9RS1IwX242d1VqZGl1NDZEUTQwQnRMejdhM1d6WkpqMEk3NTZKS1F6amdRaTVJaklhdG94Mmx3LVMwQU1UcTY3TWFfY0x2UWlIS293bGNmeTdCM3h4M1pqdkdORmlZZdIBngFBVV95cUxObXdlWlRVYkZ2ZnNLTEFwM1NhbG5EaHVJcDhpbWlXdk91ZVpvY3d1TThzYVJXcWxPdzB2bTBaTmxOYTdob3ZQaTVyakcwOGxCbGRNMkhDcTZXVUhxbWhvUWxudGZQTm1KQ0RJejhpZEMwNzNyZ0xiZmFSUkNIQ090MFlSZmZPTURsc1d0bkVhc3VWaXJWeXJJM3d4M0pEQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "USD sentiment slips on tariff, Fed focus \u2013 Scotiabank",
+            "summary": "USD sentiment slips on tariff, Fed focus \u2013 Scotiabank",
+            "url": "https://news.google.com/read/CBMimAFBVV95cUxQd0FJTkE4aTFlTmh3cGhNZEtxMjYzUlVtMUEyQ1BBRXBuR1RwV0xVbXhpOEZKb1R6MG9RS1IwX242d1VqZGl1NDZEUTQwQnRMejdhM1d6WkpqMEk3NTZKS1F6amdRaTVJaklhdG94Mmx3LVMwQU1UcTY3TWFfY0x2UWlIS293bGNmeTdCM3h4M1pqdkdORmlZZdIBngFBVV95cUxObXdlWlRVYkZ2ZnNLTEFwM1NhbG5EaHVJcDhpbWlXdk91ZVpvY3d1TThzYVJXcWxPdzB2bTBaTmxOYTdob3ZQaTVyakcwOGxCbGRNMkhDcTZXVUhxbWhvUWxudGZQTm1KQ0RJejhpZEMwNzNyZ0xiZmFSUkNIQ090MFlSZmZPTURsc1d0bkVhc3VWaXJWeXJJM3d4M0pEQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T11:19:14+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMipAFBVV95cUxOdXZrcnFXZlNDWkhmcUx1NVE2elR3UUljQTkxX0tzeVI0UWpEUm13MVdvSDZSdW5oTWptamFKVGdOS1pwYXlxNmtZSzhYNnllNFIzODhxSWhPYUR0TUc5eXZqcVlRdWpxcVhreDBHNEktUUxLQ29sSUhiQXJZVjYzNExaZDFWX25BX2F3Y2VmS2NtcHhWbU1qLTQ0TXRPYkZNR0lBYQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Important signals for Gold Trade! According to ChatGPT, this is the best time to buy gold.",
+            "summary": "Important signals for Gold Trade! According to ChatGPT, this is the best time to buy gold.",
+            "url": "https://news.google.com/read/CBMipAFBVV95cUxOdXZrcnFXZlNDWkhmcUx1NVE2elR3UUljQTkxX0tzeVI0UWpEUm13MVdvSDZSdW5oTWptamFKVGdOS1pwYXlxNmtZSzhYNnllNFIzODhxSWhPYUR0TUc5eXZqcVlRdWpxcVhreDBHNEktUUxLQ29sSUhiQXJZVjYzNExaZDFWX25BX2F3Y2VmS2NtcHhWbU1qLTQ0TXRPYkZNR0lBYQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T04:54:24+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMirgFBVV95cUxQUzdOS3plM2NTWlg3UWotUDU4Z1hldzZiS0dDVjZIcHp0QzJDZHVtYllZb3NFaVl2SC1oVFNOZWlBM1NmQmE4Tmt4MHA0dDI5U21lMjhTZGg1a1F0SXN6ai1HVlZBaWJkODVhMW5jUW1TcktuTTlpTjV1eGlkeF95bFlEQXVFLUkyWFpwR0lnR29aUEllV3ZPdFZYVGlpYlIyQkdKdFlKWmdIRGg1QWc?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "India gold market update: Investment upheld amid seasonal lull | Post by Kavita Chacko | Gold Focus blog",
+            "summary": "India gold market update: Investment upheld amid seasonal lull | Post by Kavita Chacko | Gold Focus blog",
+            "url": "https://news.google.com/read/CBMirgFBVV95cUxQUzdOS3plM2NTWlg3UWotUDU4Z1hldzZiS0dDVjZIcHp0QzJDZHVtYllZb3NFaVl2SC1oVFNOZWlBM1NmQmE4Tmt4MHA0dDI5U21lMjhTZGg1a1F0SXN6ai1HVlZBaWJkODVhMW5jUW1TcktuTTlpTjV1eGlkeF95bFlEQXVFLUkyWFpwR0lnR29aUEllV3ZPdFZYVGlpYlIyQkdKdFlKWmdIRGg1QWc?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-17T07:53:49+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMigwFBVV95cUxQTS15SWtzaVh6NkJsaU1mdGs1Ry1MLTkwM2VQZ0o2Nm5FS3ozbFpDSXhHNmNYcHo2QUh4SHBDbEpQQmpSWHlzS2VENkh4eERjeU1XaG4yVnVUbk5kNGRZU00zZXQxa0V6cGhRN0F4SGFMb0xTRFpEWVB2S2FRYmZXWlFWRQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Animation Market Size Worth USD 895.71 Billion by 2034 | Fueled by Streaming, Gaming, and E-Learning Demand",
+            "summary": "Animation Market Size Worth USD 895.71 Billion by 2034 | Fueled by Streaming, Gaming, and E-Learning Demand",
+            "url": "https://news.google.com/read/CBMigwFBVV95cUxQTS15SWtzaVh6NkJsaU1mdGs1Ry1MLTkwM2VQZ0o2Nm5FS3ozbFpDSXhHNmNYcHo2QUh4SHBDbEpQQmpSWHlzS2VENkh4eERjeU1XaG4yVnVUbk5kNGRZU00zZXQxa0V6cGhRN0F4SGFMb0xTRFpEWVB2S2FRYmZXWlFWRQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T14:41:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMijgFBVV95cUxOSjVybVZnQlVMQlZnVVZjSHBsT1hvclFaUHV2V2xUczBNN3VMOEMzLWJqbVB6QmtxMG9ZVHk2ZmF3dWxRZllPZ2xVTVhPVjRMYndoTXl2c0E5TkdJOXBzWDRNajc2WEI2YkJoS0k0SDhheW56dlNzWDNaeGdXd2VHVGY1b0RfTFZmb254WHpB?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Electronic Data Interchange Market Size to Grow USD 74.36 billion by 2031, Rising Digital Transformation Across Various Industries Propels | The Insight Partners",
+            "summary": "Electronic Data Interchange Market Size to Grow USD 74.36 billion by 2031, Rising Digital Transformation Across Various Industries Propels | The Insight Partners",
+            "url": "https://news.google.com/read/CBMijgFBVV95cUxOSjVybVZnQlVMQlZnVVZjSHBsT1hvclFaUHV2V2xUczBNN3VMOEMzLWJqbVB6QmtxMG9ZVHk2ZmF3dWxRZllPZ2xVTVhPVjRMYndoTXl2c0E5TkdJOXBzWDRNajc2WEI2YkJoS0k0SDhheW56dlNzWDNaeGdXd2VHVGY1b0RfTFZmb254WHpB?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T15:30:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMipAFBVV95cUxNenVxNHVoOUhpRTl1ZVRSTDVWc0xYOER3QzBTZUxGMEc0Zktsb3phN2RTOTVhNndQbGtOUkgzY2ZwVXNnR2Z0TmpSOGVIVjdLM0dKVkhNOUIzMmd6TjRSbW5yLXBOYjFGTThzN3pENngtd0dFcFVzc0lsMDR3ODlQczZ0ZlhYVGxSNzBHZWtWSVhKQlFNM2k1a2JPREM2dW9KdjhHSQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Animal Feed Market to Reach USD 983.95 Million by 2034 Amid Rising Demand for Livestock Nutrition",
+            "summary": "Animal Feed Market to Reach USD 983.95 Million by 2034 Amid Rising Demand for Livestock Nutrition",
+            "url": "https://news.google.com/read/CBMipAFBVV95cUxNenVxNHVoOUhpRTl1ZVRSTDVWc0xYOER3QzBTZUxGMEc0Zktsb3phN2RTOTVhNndQbGtOUkgzY2ZwVXNnR2Z0TmpSOGVIVjdLM0dKVkhNOUIzMmd6TjRSbW5yLXBOYjFGTThzN3pENngtd0dFcFVzc0lsMDR3ODlQczZ0ZlhYVGxSNzBHZWtWSVhKQlFNM2k1a2JPREM2dW9KdjhHSQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T11:12:55+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMidkFVX3lxTFAxSHR4dFhQWGNjSlNVSGpJa285R3VBMlhISWlqZjNZOVNKcnNidk9sLTk2OXAwY3NZeHhhT3EzYXVtQWVLSGhNWGlvVXZ2RUVPSzM2VHN5a2YxcWlnN3M0RURIbk5IbmlXQmY1eTFQNEZOZkc0VXc?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Veterinary Antihistamines Market Size to Hit USD 2.12 Billion by 2034",
+            "summary": "Veterinary Antihistamines Market Size to Hit USD 2.12 Billion by 2034",
+            "url": "https://news.google.com/read/CBMidkFVX3lxTFAxSHR4dFhQWGNjSlNVSGpJa285R3VBMlhISWlqZjNZOVNKcnNidk9sLTk2OXAwY3NZeHhhT3EzYXVtQWVLSGhNWGlvVXZ2RUVPSzM2VHN5a2YxcWlnN3M0RURIbk5IbmlXQmY1eTFQNEZOZkc0VXc?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T13:35:57+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMijwFBVV95cUxPNGdrX3ZBUDJMRHE5MHRDSXNibFI3bkd3VW52U1lacWZLRHNzRlBKeVl1Mm9mNzZ4QXo3d25IalphQVFyc2RmVnVpRTBaZllYdC1JU3luMzFnNzQzY09Kc1R0U3FkbExjMlJ2Rm9jblVSdURQVWhtclpyZ0l1R3B2NzlMN1JSVkgydVNRRGZabw?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold eases on firmer dollar, solid US data",
+            "summary": "Gold eases on firmer dollar, solid US data",
+            "url": "https://news.google.com/read/CBMijwFBVV95cUxPNGdrX3ZBUDJMRHE5MHRDSXNibFI3bkd3VW52U1lacWZLRHNzRlBKeVl1Mm9mNzZ4QXo3d25IalphQVFyc2RmVnVpRTBaZllYdC1JU3luMzFnNzQzY09Kc1R0U3FkbExjMlJ2Rm9jblVSdURQVWhtclpyZ0l1R3B2NzlMN1JSVkgydVNRRGZabw?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-17T18:16:06+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi4gFBVV95cUxNTE1raGpJSWtkNE1LeWhXdGdNU3lpVzF2d3NBRy0zdXBSWGM0bXFJOTRHbFRFNHVkTk9VRnlMTjdBa1dRLS1mZE1CMmgwdzl6VDA5amE5cHo5THJkcGNnLWtkYlJPQVJCd2FxQnpfY21wUC1uTTlRRXgwMThiQWVVN19OSU1lZEZTWm1rNndDM25SNFJyX0ZqWDJLbjNzQTZweUY2QzBRWEVaOUhQQk1BeWpfUmQ5Y2NnWVU4VGJ4WUlsWllRc1FNekE1OEFwem9oWkY1a0FJeklPbDdfX2Fxc2Vn?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold futures jump by most in a month on dollar weakness, rate cut hopes",
+            "summary": "Gold futures jump by most in a month on dollar weakness, rate cut hopes",
+            "url": "https://news.google.com/read/CBMi4gFBVV95cUxNTE1raGpJSWtkNE1LeWhXdGdNU3lpVzF2d3NBRy0zdXBSWGM0bXFJOTRHbFRFNHVkTk9VRnlMTjdBa1dRLS1mZE1CMmgwdzl6VDA5amE5cHo5THJkcGNnLWtkYlJPQVJCd2FxQnpfY21wUC1uTTlRRXgwMThiQWVVN19OSU1lZEZTWm1rNndDM25SNFJyX0ZqWDJLbjNzQTZweUY2QzBRWEVaOUhQQk1BeWpfUmQ5Y2NnWVU4VGJ4WUlsWllRc1FNekE1OEFwem9oWkY1a0FJeklPbDdfX2Fxc2Vn?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T22:21:23+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiekFVX3lxTE53V3BlVDZBYkpQeWxmNnFST1hpRC1RSmlacjY1QjliVGtMS0dWYm1iTEpIWlc2NWZwY0MwUmZPSVFtSmhrRnBVd2xhVzFKU0kzRDB5VkxyNjdFYlFfNzJ6UjJ0ZmdCRjFvMXptUnZfazdRbHBDQUFQRUJn?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Internet Protocol Television Market Size to Hit USD 381.59 Billion by 2034",
+            "summary": "Internet Protocol Television Market Size to Hit USD 381.59 Billion by 2034",
+            "url": "https://news.google.com/read/CBMiekFVX3lxTE53V3BlVDZBYkpQeWxmNnFST1hpRC1RSmlacjY1QjliVGtMS0dWYm1iTEpIWlc2NWZwY0MwUmZPSVFtSmhrRnBVd2xhVzFKU0kzRDB5VkxyNjdFYlFfNzJ6UjJ0ZmdCRjFvMXptUnZfazdRbHBDQUFQRUJn?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T13:35:57+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiywFBVV95cUxPbGhiMmhRVG5nUjA4NWxaVWYxSVpKYXl1ZkJ3U2ZPU0NGdkhkMXVWZ2FLOEJqcEFfWERjR0J0YlVDaE9EdVZRUnRvWmktT1dGWkpibDZ0STBhZFVZMkY3TUxqOHJaN3pZSmZCbTBtelNjWE8tanRHREtQb09jbGtQRUZVcWh1OEp1Q2lsVXJ6UVFhY2tWSW9YUUN2OVoxQ2lVTm0wbHdWcVZIWmpBd3N2b25tQ1MzOVdwaXgwWFlwNFdVa3BjTDJUaC1LQdIB0AFBVV95cUxNc3FQZEtOZUxOSnE1YWc2TFJhUDlmT3YtbmFLZUFCY1RWN1ZUU3RuN2UyN1ZFMUhuVTUzQW1yZXRRdWQyQ3lhQXVMeE1lUEtZZ0lkSzRaVndLNmpyTmJJRkpwWVVoSU5lWktOdVo0ZWhlZHFIVlNfR05qUDFLZUkzOThfTGFWMDl2YUMzcXpwbVVFQy0ycWtHS3BDNHkyRWRReUJkd2ZEeWxxNDBueUc5ZXlCdFRlTk9zcEcxaTVOR0hkeTJCSjhkeHZEdXl5aDRY?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold market heats up: local trust is key, says West Texas expert",
+            "summary": "Gold market heats up: local trust is key, says West Texas expert",
+            "url": "https://news.google.com/read/CBMiywFBVV95cUxPbGhiMmhRVG5nUjA4NWxaVWYxSVpKYXl1ZkJ3U2ZPU0NGdkhkMXVWZ2FLOEJqcEFfWERjR0J0YlVDaE9EdVZRUnRvWmktT1dGWkpibDZ0STBhZFVZMkY3TUxqOHJaN3pZSmZCbTBtelNjWE8tanRHREtQb09jbGtQRUZVcWh1OEp1Q2lsVXJ6UVFhY2tWSW9YUUN2OVoxQ2lVTm0wbHdWcVZIWmpBd3N2b25tQ1MzOVdwaXgwWFlwNFdVa3BjTDJUaC1LQdIB0AFBVV95cUxNc3FQZEtOZUxOSnE1YWc2TFJhUDlmT3YtbmFLZUFCY1RWN1ZUU3RuN2UyN1ZFMUhuVTUzQW1yZXRRdWQyQ3lhQXVMeE1lUEtZZ0lkSzRaVndLNmpyTmJJRkpwWVVoSU5lWktOdVo0ZWhlZHFIVlNfR05qUDFLZUkzOThfTGFWMDl2YUMzcXpwbVVFQy0ycWtHS3BDNHkyRWRReUJkd2ZEeWxxNDBueUc5ZXlCdFRlTk9zcEcxaTVOR0hkeTJCSjhkeHZEdXl5aDRY?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-18T23:30:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMisAFBVV95cUxQemk4anFtcHBKWGZHR2RpTGI0SFNudTNVZkpUTV9yYVNBMDdWekZzODVKbkVBN1NSY1I0azd1TFU1XzVnaGFuWTJ5cS14Wi1xWW13MHM5Z2gzalc5VVBlaFNhZ1RsSmdSZnVKaGRtVUsyaUpPRWoxSnVINHpsenBpNUhxdEY2ZUQ2dThHNXpOMkRSbnpDZ2pCWHdRT2UtYmxxVFc2T0lVcGtzMkl3MExtN9IBtgFBVV95cUxORGFaT3M1bzdad3RpTlBrNExGVzItMDZtNkdXZnRLUWp1aC03Wmo4cEV5OE56OS13VXFwbEREakJfa2xyTEc3SW5Ddmplekh0VGVhLTVQX1A4a3FuUWpicWVUZjRKZVpmRG5jRUpsWW1CMnpQclpQSS03YS1MUWtLMVRmN3N0QnpkVXVyWDZsejk1cHNyQVJOZjI4Qi0wdzRLd3JGOVlsSml2ZHBYT3FRZnN5ZXF6QQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "USD/JPY: Likely to trade in a range between 146.90 and 148.20 \u2013 UOB Group",
+            "summary": "USD/JPY: Likely to trade in a range between 146.90 and 148.20 \u2013 UOB Group",
+            "url": "https://news.google.com/read/CBMisAFBVV95cUxQemk4anFtcHBKWGZHR2RpTGI0SFNudTNVZkpUTV9yYVNBMDdWekZzODVKbkVBN1NSY1I0azd1TFU1XzVnaGFuWTJ5cS14Wi1xWW13MHM5Z2gzalc5VVBlaFNhZ1RsSmdSZnVKaGRtVUsyaUpPRWoxSnVINHpsenBpNUhxdEY2ZUQ2dThHNXpOMkRSbnpDZ2pCWHdRT2UtYmxxVFc2T0lVcGtzMkl3MExtN9IBtgFBVV95cUxORGFaT3M1bzdad3RpTlBrNExGVzItMDZtNkdXZnRLUWp1aC03Wmo4cEV5OE56OS13VXFwbEREakJfa2xyTEc3SW5Ddmplekh0VGVhLTVQX1A4a3FuUWpicWVUZjRKZVpmRG5jRUpsWW1CMnpQclpQSS03YS1MUWtLMVRmN3N0QnpkVXVyWDZsejk1cHNyQVJOZjI4Qi0wdzRLd3JGOVlsSml2ZHBYT3FRZnN5ZXF6QQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T10:36:11+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi2gFBVV95cUxOMEZLQ2lVTG9RMjlpS2hRWERTVm92S0hWOVVYLWUxREN1SjdrNjlmUVJzVzh2STZDeWZyX2tYZFlHenloVlVnRE13NWFRaGpUb292OVpoMmFZT0RxNUkxVzd6NFM3TVZDX0RhVHc3VlFZXzhFbkZVV0p6ZFVWWWFycjZVeXVQdWFjbjAzX1FsTTdRbllZMWU2ZUtad2M5VjI5bmpibFMwWGl6bjZ2aDFPbXlaZzY4c3VlWlY2ZjhSRmtnRUxJalhRWHRLWW90T1c0NFkwOFo3R3BtUQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "US Dollar Forecast: Falls on Tariff Deadline Jitters, Fed Scrutiny Weighs \u2013 GBP/USD and EUR/USD",
+            "summary": "US Dollar Forecast: Falls on Tariff Deadline Jitters, Fed Scrutiny Weighs \u2013 GBP/USD and EUR/USD",
+            "url": "https://news.google.com/read/CBMi2gFBVV95cUxOMEZLQ2lVTG9RMjlpS2hRWERTVm92S0hWOVVYLWUxREN1SjdrNjlmUVJzVzh2STZDeWZyX2tYZFlHenloVlVnRE13NWFRaGpUb292OVpoMmFZT0RxNUkxVzd6NFM3TVZDX0RhVHc3VlFZXzhFbkZVV0p6ZFVWWWFycjZVeXVQdWFjbjAzX1FsTTdRbllZMWU2ZUtad2M5VjI5bmpibFMwWGl6bjZ2aDFPbXlaZzY4c3VlWlY2ZjhSRmtnRUxJalhRWHRLWW90T1c0NFkwOFo3R3BtUQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T09:06:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiiAFBVV95cUxOVzhrNFZqdXh4WUdTaUhpSU1WM19KU19FaTRsdmdiTVNFWnJUb2V3OVU5RFhVNVF6T0JlXzF3N1RMM2lCZ1U3c04xQVVDMUJ2RDQ1MDFNZzU5VDBtcTZwb3QzcGxMOFpWSUFmaUZkSm9OckIzdTI0RERyZUpNM1FkdG0wRlBON3Jq?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold Stocks Trusted Market Predictions - Powerful growth strategies",
+            "summary": "Gold Stocks Trusted Market Predictions - Powerful growth strategies",
+            "url": "https://news.google.com/read/CBMiiAFBVV95cUxOVzhrNFZqdXh4WUdTaUhpSU1WM19KU19FaTRsdmdiTVNFWnJUb2V3OVU5RFhVNVF6T0JlXzF3N1RMM2lCZ1U3c04xQVVDMUJ2RDQ1MDFNZzU5VDBtcTZwb3QzcGxMOFpWSUFmaUZkSm9OckIzdTI0RERyZUpNM1FkdG0wRlBON3Jq?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T11:11:47+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiiwFBVV95cUxPSmRkamxBTHJCMkw3OFpGMmd3dmdaYmQ3ZFBrTXVRTGw2Y2dhdnd1S2FTMTM4WmlWaUhvOVM3MUNmdGFJOUZwZV9uMGdhYks5ZlBnN3NBcUk4SzZjdmRsWU5pV1k1WE1sWTZFRHN2WHNyM0ZTLWFvYmxYSmRpUFdRdFplMWxNWjhyRWNZ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Micro and Nano Programmable Logic Control Market Size to Hit USD 4.07 Bn by 2034",
+            "summary": "Micro and Nano Programmable Logic Control Market Size to Hit USD 4.07 Bn by 2034",
+            "url": "https://news.google.com/read/CBMiiwFBVV95cUxPSmRkamxBTHJCMkw3OFpGMmd3dmdaYmQ3ZFBrTXVRTGw2Y2dhdnd1S2FTMTM4WmlWaUhvOVM3MUNmdGFJOUZwZV9uMGdhYks5ZlBnN3NBcUk4SzZjdmRsWU5pV1k1WE1sWTZFRHN2WHNyM0ZTLWFvYmxYSmRpUFdRdFplMWxNWjhyRWNZ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T13:35:57+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMilgFBVV95cUxOMEhuZkYtcS1fdDB1cUVZdlhhazlmT2FTTlFMcjV5UVNJNy13UU9sTDdqTzNwcGR3Qjg5Q1RSUS1zdjR4ZnFBY1Njbmp2R3BjemZTZVBvdC1FN1VVUi1vUUpwWHN4OEhERnJ0QnpCMHppcEpCTXo1M0htT1VkWlVydEVmbFduY0JuM0dEM0VkdFhyYjloNkE?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Best Practices for Using Gold Trading Signals in 2025",
+            "summary": "Best Practices for Using Gold Trading Signals in 2025",
+            "url": "https://news.google.com/read/CBMilgFBVV95cUxOMEhuZkYtcS1fdDB1cUVZdlhhazlmT2FTTlFMcjV5UVNJNy13UU9sTDdqTzNwcGR3Qjg5Q1RSUS1zdjR4ZnFBY1Njbmp2R3BjemZTZVBvdC1FN1VVUi1vUUpwWHN4OEhERnJ0QnpCMHppcEpCTXo1M0htT1VkWlVydEVmbFduY0JuM0dEM0VkdFhyYjloNkE?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T05:27:04+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMijAJBVV95cUxQaGtPaGVTU2Z2Nmh3V2NXRTFieExta0FsZ1lNODV5VlJnVGt0RmZFRGlrY2E3NHNnRlFqaFRRZE5QRS1GNUlLWUsxWmJfeUFXM2Vjb2JnMFU3ZVpQOUhNY3dHNHc2ektJcWp2YmtETjh5M3lSRDJZYW5MZHdsS1JpNHNRWVBDdDNYVl9uRGlNVTZxNDJnOEtleVZIUkdkaDVRVGFBb1MxZTJBcDZqYnFaVlRUV2U2Z05CVEFNOVd6YnpZY2NWT1o1aFpDdHFKek1YNzBrVUJESldZQ3dqYy1iaTY2Vm4zblRfMjF0SHZ5QzlEU3VSUTJISU1WX2NHTVRDOFdJLVFZSEpTaHA10gGSAkFVX3lxTE9yZVgtLUtpVTl0NWxudWE2ZllRWFRxVVMtUkNoQlpreUFzcHFFNE9CVTlHSlBlNTY2RHVhNGZVTFp2UG9LdEZtNmlFV2xUNzczQkJiNll6S2U0OG5CRlNRczNYelp5eVc4RV9CT3p3bkZUUWZDRnhRSUgwUTZFNy1iUGJ5X3dGMFZlN2pheXViWUh5eElNcFBvMDNPZkc4VnMzdU9ocjNyRnk0bm1scFBoRkVTRjNaRHdxWTQ4QkZEQTcwWGRaZThSOTFwSGE0aENOaWQycVROd2wyMFVKdGZYdVNNc1d5QmNubGJibUZBMWhPN2NFSWU1eUdxUTQ2TmVkTUsxYVo2dllzTHNwalRTdWc?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold price today: Rates ease on profit booking; Trump Tariffs uncertainty remains a key support; key MCX levels to watch",
+            "summary": "Gold price today: Rates ease on profit booking; Trump Tariffs uncertainty remains a key support; key MCX levels to watch",
+            "url": "https://news.google.com/read/CBMijAJBVV95cUxQaGtPaGVTU2Z2Nmh3V2NXRTFieExta0FsZ1lNODV5VlJnVGt0RmZFRGlrY2E3NHNnRlFqaFRRZE5QRS1GNUlLWUsxWmJfeUFXM2Vjb2JnMFU3ZVpQOUhNY3dHNHc2ektJcWp2YmtETjh5M3lSRDJZYW5MZHdsS1JpNHNRWVBDdDNYVl9uRGlNVTZxNDJnOEtleVZIUkdkaDVRVGFBb1MxZTJBcDZqYnFaVlRUV2U2Z05CVEFNOVd6YnpZY2NWT1o1aFpDdHFKek1YNzBrVUJESldZQ3dqYy1iaTY2Vm4zblRfMjF0SHZ5QzlEU3VSUTJISU1WX2NHTVRDOFdJLVFZSEpTaHA10gGSAkFVX3lxTE9yZVgtLUtpVTl0NWxudWE2ZllRWFRxVVMtUkNoQlpreUFzcHFFNE9CVTlHSlBlNTY2RHVhNGZVTFp2UG9LdEZtNmlFV2xUNzczQkJiNll6S2U0OG5CRlNRczNYelp5eVc4RV9CT3p3bkZUUWZDRnhRSUgwUTZFNy1iUGJ5X3dGMFZlN2pheXViWUh5eElNcFBvMDNPZkc4VnMzdU9ocjNyRnk0bm1scFBoRkVTRjNaRHdxWTQ4QkZEQTcwWGRaZThSOTFwSGE0aENOaWQycVROd2wyMFVKdGZYdVNNc1d5QmNubGJibUZBMWhPN2NFSWU1eUdxUTQ2TmVkTUsxYVo2dllzTHNwalRTdWc?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T03:38:24+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMioAFBVV95cUxPaUJwT2FobWlwN2Z0UUMyc21mTVpVU211eFhTTmUzUFZXSGFpX0dnYlhkekphdmJXbm95VTZLOGllYUptMDBnaVdiNnBXUkpkbkhhcGpmeWpHTVNCM0Jmd1ZFYkowXzhBd1RQSHRVUXBhY1FNVy0zS3lLeVpXTEJRWHpVT1VfeDFIQTlSYWhlM2ZjdkVUOGdLVU5vanFLTWpl?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Smart Ambulatory Infusion Pump Market to Reach USD 1.59 Billion",
+            "summary": "Smart Ambulatory Infusion Pump Market to Reach USD 1.59 Billion",
+            "url": "https://news.google.com/read/CBMioAFBVV95cUxPaUJwT2FobWlwN2Z0UUMyc21mTVpVU211eFhTTmUzUFZXSGFpX0dnYlhkekphdmJXbm95VTZLOGllYUptMDBnaVdiNnBXUkpkbkhhcGpmeWpHTVNCM0Jmd1ZFYkowXzhBd1RQSHRVUXBhY1FNVy0zS3lLeVpXTEJRWHpVT1VfeDFIQTlSYWhlM2ZjdkVUOGdLVU5vanFLTWpl?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T11:42:48+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMixgFBVV95cUxNTWI0akV0OEFzNGY2QmtVMHc1SmRodVhKX3pwcXRvVWxMLXVCd2pJaW5uZEJTVG1MeTlVcERBeHZNcXczLVBsWUtkMDJhQmJ5V0hzbG1tQWhfSUdzUUhCMlZqRVROM296eTF4eHdaTTZVV3lPM2NJQXhRQlFDaDZYbkViZ29RZEJGOWJUdE5tbFRyelh6WF9ocUpsYVlxaU1adkJxckpFOXJObndTeG9GZERxQktfcnhWUVJKa0hfeldDNDhvbGc?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "AUD/USD and NZD/USD Eye Upside as Fed Signals Diverge, USD/JPY in Tight Range",
+            "summary": "AUD/USD and NZD/USD Eye Upside as Fed Signals Diverge, USD/JPY in Tight Range",
+            "url": "https://news.google.com/read/CBMixgFBVV95cUxNTWI0akV0OEFzNGY2QmtVMHc1SmRodVhKX3pwcXRvVWxMLXVCd2pJaW5uZEJTVG1MeTlVcERBeHZNcXczLVBsWUtkMDJhQmJ5V0hzbG1tQWhfSUdzUUhCMlZqRVROM296eTF4eHdaTTZVV3lPM2NJQXhRQlFDaDZYbkViZ29RZEJGOWJUdE5tbFRyelh6WF9ocUpsYVlxaU1adkJxckpFOXJObndTeG9GZERxQktfcnhWUVJKa0hfeldDNDhvbGc?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T04:00:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMisAFBVV95cUxNWHFKMm9oc1lPWlEtWGp1OUFwc2RZekhmRnR4SmFxeG9YWUZHNm41NE02eHR6NlZxYnhhZFdycEhudDVrVHRHTE9HMlBPS0ZLSzd5SHFDaG9RWVVNbWFZdUR6cmcxamVxelVueFg2bThwSzJ2dnFCZmNNOEFXRnhXRGc0d1FUX1NSWV9rbmRJYXhQeGhUVjBTWTVfN0JVd3NmVnZzNmVrS2RpUXEySG1ZatIBtgFBVV95cUxPTXp6S3hVTEVYamk0S1FwZFJORHB1WGt4ejRFV3JvT1ZCZUxyN3lzYUMwQWNfakQ0VUltQXltOWU0MDNmWjZvM2V2cjZPbi1zWC1FdFAydEpPQkxMT09ZT3JMRTMzRk42S1FNTUwteEpCZGgxNU96bWhlVnViMzgtX0JraGdaNzRDVXF3Y2JaNWtzMy02Y2ZOazRjQXRnUE5QaG9EaWExV0hKenlwdldsakoySXJMQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "USD/JPY extends its recovery, nearing 148.00 with trade talks on focus",
+            "summary": "USD/JPY extends its recovery, nearing 148.00 with trade talks on focus",
+            "url": "https://news.google.com/read/CBMisAFBVV95cUxNWHFKMm9oc1lPWlEtWGp1OUFwc2RZekhmRnR4SmFxeG9YWUZHNm41NE02eHR6NlZxYnhhZFdycEhudDVrVHRHTE9HMlBPS0ZLSzd5SHFDaG9RWVVNbWFZdUR6cmcxamVxelVueFg2bThwSzJ2dnFCZmNNOEFXRnhXRGc0d1FUX1NSWV9rbmRJYXhQeGhUVjBTWTVfN0JVd3NmVnZzNmVrS2RpUXEySG1ZatIBtgFBVV95cUxPTXp6S3hVTEVYamk0S1FwZFJORHB1WGt4ejRFV3JvT1ZCZUxyN3lzYUMwQWNfakQ0VUltQXltOWU0MDNmWjZvM2V2cjZPbi1zWC1FdFAydEpPQkxMT09ZT3JMRTMzRk42S1FNTUwteEpCZGgxNU96bWhlVnViMzgtX0JraGdaNzRDVXF3Y2JaNWtzMy02Y2ZOazRjQXRnUE5QaG9EaWExV0hKenlwdldsakoySXJMQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T07:58:11+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMirgFBVV95cUxONnExUTVab2N5VzkzakwxOXd6VVhrZjgxam9sSDR4a2k3a09peEpBS0xGQTJKa2s5RklkQms3cjVkUk5mNExYZlhicUlSMXJLTHRybHlHQjRtLU00TUlmMmJUbURNS2RQeVMzMnhCUjBCN241TU1yeFZ4Nkl4RFh6NW1QNHA3QkZqYVlSVlA4YmUydndwUW95V2RVN3FZUVRnUzc4UmE2YVJaUzR2UlHSAbMBQVVfeXFMTTl0Rm1yN3FKdU9veGhLem11bDN0WEg0Ym1fRDRmXzBHRHI2YzczNzBMcjJhNUlmVWVMZnAyRVcwUGFwNDBHN05yZm8zUUpKYW1QVWxWOGpzdjJlem11VXhJbW9GZWdYcExnb1otSTAxcU9sdDVkeFBqTUUzeHJHZzlQbkpYV0hJQ2ZHdWt5a0hPYjdJMGN3dTVBYlJCNE9BU3p4RThmblRNTVFMeGFnLTVEUHM?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "AUD/USD: Likely to trade in a higher range of 0.6505/0.6545 \u2013 UOB Group",
+            "summary": "AUD/USD: Likely to trade in a higher range of 0.6505/0.6545 \u2013 UOB Group",
+            "url": "https://news.google.com/read/CBMirgFBVV95cUxONnExUTVab2N5VzkzakwxOXd6VVhrZjgxam9sSDR4a2k3a09peEpBS0xGQTJKa2s5RklkQms3cjVkUk5mNExYZlhicUlSMXJLTHRybHlHQjRtLU00TUlmMmJUbURNS2RQeVMzMnhCUjBCN241TU1yeFZ4Nkl4RFh6NW1QNHA3QkZqYVlSVlA4YmUydndwUW95V2RVN3FZUVRnUzc4UmE2YVJaUzR2UlHSAbMBQVVfeXFMTTl0Rm1yN3FKdU9veGhLem11bDN0WEg0Ym1fRDRmXzBHRHI2YzczNzBMcjJhNUlmVWVMZnAyRVcwUGFwNDBHN05yZm8zUUpKYW1QVWxWOGpzdjJlem11VXhJbW9GZWdYcExnb1otSTAxcU9sdDVkeFBqTUUzeHJHZzlQbkpYV0hJQ2ZHdWt5a0hPYjdJMGN3dTVBYlJCNE9BU3p4RThmblRNTVFMeGFnLTVEUHM?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T10:03:53+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMioAFBVV95cUxQTW95YVBNcGxwYmN2UmptVFYwSnJXSVAzWjljWDNua0NpZG5YOTFvY19VbkJFclhMMEZzZ2lSazUzUzNiczJuRlZNN05GbmR0aUh4T01YQW5JMzd1YjVGWnVTZ1BtWUVYdndXUExwNllvQ183NjdDejhBa0xzWEd2Q0luR2YtUGRvQ0tSTjF0bHh5LUd0UTNxdzNkZUdmdFpK?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Omics-Based Clinical Trials Market to Surpass USD 13.56 Billion",
+            "summary": "Omics-Based Clinical Trials Market to Surpass USD 13.56 Billion",
+            "url": "https://news.google.com/read/CBMioAFBVV95cUxQTW95YVBNcGxwYmN2UmptVFYwSnJXSVAzWjljWDNua0NpZG5YOTFvY19VbkJFclhMMEZzZ2lSazUzUzNiczJuRlZNN05GbmR0aUh4T01YQW5JMzd1YjVGWnVTZ1BtWUVYdndXUExwNllvQ183NjdDejhBa0xzWEd2Q0luR2YtUGRvQ0tSTjF0bHh5LUd0UTNxdzNkZUdmdFpK?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T11:12:45+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMipAFBVV95cUxPMHhpcXRmQ2xlMVoydEItU3Y3aXJPZC03X1gzUjhvbFFySmNQQ3FsUHN3ZzVWMlNrT1VUN3dPa0lsZkJUMFBVWUtPUUVqbFhBVEF1TFZSSmZHTWN1dm5TR2I1T3NBanJQMkhmSWduWko3SnBBZXhZQlJ5MENrWFUwR3MtaUFXXzFZXzFpc3VRcmhuUHlsTG03eGRxNlVBYmRmTXV6Z9IBqgFBVV95cUxNV0l1Wkp6SjBBaHRmNGU1TVgwdTVJbDVVbkd0MERDMVdTbWFzTlFUOGVxdGVTTkpUb2tQWF9YcjI5bjVmUmxYejlwNDhRYWZNa0lEby1sdzQyejFMalppQ1Q3WlpVSEtFQzB1XzBXcWcxZWdKRDhHbk9LS1hkUjA2Yi1OYWhZaE93YUxtYWVXV0JIWkNoblVUa215UnZmbHdxYUZjUExsQTJLQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "NZD/USD: Likely to trade in a range of 0.5940/0.5980 \u2013 UOB Group",
+            "summary": "NZD/USD: Likely to trade in a range of 0.5940/0.5980 \u2013 UOB Group",
+            "url": "https://news.google.com/read/CBMipAFBVV95cUxPMHhpcXRmQ2xlMVoydEItU3Y3aXJPZC03X1gzUjhvbFFySmNQQ3FsUHN3ZzVWMlNrT1VUN3dPa0lsZkJUMFBVWUtPUUVqbFhBVEF1TFZSSmZHTWN1dm5TR2I1T3NBanJQMkhmSWduWko3SnBBZXhZQlJ5MENrWFUwR3MtaUFXXzFZXzFpc3VRcmhuUHlsTG03eGRxNlVBYmRmTXV6Z9IBqgFBVV95cUxNV0l1Wkp6SjBBaHRmNGU1TVgwdTVJbDVVbkd0MERDMVdTbWFzTlFUOGVxdGVTTkpUb2tQWF9YcjI5bjVmUmxYejlwNDhRYWZNa0lEby1sdzQyejFMalppQ1Q3WlpVSEtFQzB1XzBXcWcxZWdKRDhHbk9LS1hkUjA2Yi1OYWhZaE93YUxtYWVXV0JIWkNoblVUa215UnZmbHdxYUZjUExsQTJLQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T10:22:12+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMizwFBVV95cUxPZHdRVUdScHotSzhBS3pBLXR4UUZZMFhSQUtLVC1YVlpWVWxidGFZcENhOGlyYVdjazhERGdrRFBBQTNNUVp4VnpvWUNqRDVtcHpwREtzQnlOTl9TaW8tVlJDUW9tdU1iOG04eUxNSlBIbGxLaTZreWVISTk2Z3R6UUpuaUZGTWdzdTFSWHVuMEdYUE4yT1VLMU5rVlRnWEdFUUFDYk9UZ1NsYmh3NjRCTGZFUmctZUhMNUZNbkczMDZTcmZiLTZzUkpPNm1uQ1XSAdQBQVVfeXFMTnFEV2k0Y0x4SXNoQk5WOGw3VGM2LVQtV1FIZVlGdVdxUEZBV2NPVVRNVEdOckdWTkRjdVF5em11Vjd4LU9SbmRIY3RWMzRGRnltczdXYlNLbTlxYzl0UC11QmNNZWVyNzFRRjlUOU5MTWdtSXRUMVlVOXJTczhjWnRjLWY0N2UyS0N4ekFRRTRiZzdsZV9fRjRWR0E0N3dIbzBjcV9zSkV4dUg1RURjS0piZVY2Zlo5Yl9JNnJaVzJSNG5tVTF0UlVBSHZUZ1dXN1I5eU0?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold shines bright as Dollar sinks, yields crumble on Fed woes",
+            "summary": "Gold shines bright as Dollar sinks, yields crumble on Fed woes",
+            "url": "https://news.google.com/read/CBMizwFBVV95cUxPZHdRVUdScHotSzhBS3pBLXR4UUZZMFhSQUtLVC1YVlpWVWxidGFZcENhOGlyYVdjazhERGdrRFBBQTNNUVp4VnpvWUNqRDVtcHpwREtzQnlOTl9TaW8tVlJDUW9tdU1iOG04eUxNSlBIbGxLaTZreWVISTk2Z3R6UUpuaUZGTWdzdTFSWHVuMEdYUE4yT1VLMU5rVlRnWEdFUUFDYk9UZ1NsYmh3NjRCTGZFUmctZUhMNUZNbkczMDZTcmZiLTZzUkpPNm1uQ1XSAdQBQVVfeXFMTnFEV2k0Y0x4SXNoQk5WOGw3VGM2LVQtV1FIZVlGdVdxUEZBV2NPVVRNVEdOckdWTkRjdVF5em11Vjd4LU9SbmRIY3RWMzRGRnltczdXYlNLbTlxYzl0UC11QmNNZWVyNzFRRjlUOU5MTWdtSXRUMVlVOXJTczhjWnRjLWY0N2UyS0N4ekFRRTRiZzdsZV9fRjRWR0E0N3dIbzBjcV9zSkV4dUg1RURjS0piZVY2Zlo5Yl9JNnJaVzJSNG5tVTF0UlVBSHZUZ1dXN1I5eU0?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T21:05:32+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi2wFBVV95cUxQeWNsREIyR2s0OFM3akc4dVNJcTJnbjViVzJyOEpQdHJsZ1A2c1k1U0haWUIxeWNiX1Q2dmlIdGRXcFUyc1B6N2lMd3plTGt1YU5RN0hxaG1zS1dHdEQ0WFFtSmFIWDJrazdpeEVRUWdZQl9ibHpqSG0yalVZS3gtRDRBa18zNy01SlYxbWYwZTlwdHpsZlBGUjZ2RzRhQ0Jad1RZeUFBSmYxX19xa2JlbE15U215RHN6YzBvMnlmVmJOMjVhU0g0aXNrRXBMYlFNeThPZUpJNFM4aE3SAeABQVVfeXFMT2k5NFpsQkJhcURqQklFSkpQWXJrZVpQd1YtNW56eWtFMjN5SFFfNlpOUERfd3YtQXFLOFp0QTFPeU8wMnNTY1hWN1ppQzRvNXpQSTM5cTBQcE54c0hBdW9DYkstX2hXRTYwclk0dEw3VzNmUEhaOHd3UmllWjcwMFFUZmxuZ200QWphZUE0NFJUa1c5WkFRanpVOGIta3VmQWh2UDRxUWh1ckRTM1ZFcEJTTGdSOXkzRi1qU1FMVk1DVlZzLWFOeWZ0TzZoQVE0b0NaeVdKUUpaWktVNk9USlE?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold breaks out of its range as Dollar falls and yields sink amid Fed turmoil and trade tensions",
+            "summary": "Gold breaks out of its range as Dollar falls and yields sink amid Fed turmoil and trade tensions",
+            "url": "https://news.google.com/read/CBMi2wFBVV95cUxQeWNsREIyR2s0OFM3akc4dVNJcTJnbjViVzJyOEpQdHJsZ1A2c1k1U0haWUIxeWNiX1Q2dmlIdGRXcFUyc1B6N2lMd3plTGt1YU5RN0hxaG1zS1dHdEQ0WFFtSmFIWDJrazdpeEVRUWdZQl9ibHpqSG0yalVZS3gtRDRBa18zNy01SlYxbWYwZTlwdHpsZlBGUjZ2RzRhQ0Jad1RZeUFBSmYxX19xa2JlbE15U215RHN6YzBvMnlmVmJOMjVhU0g0aXNrRXBMYlFNeThPZUpJNFM4aE3SAeABQVVfeXFMT2k5NFpsQkJhcURqQklFSkpQWXJrZVpQd1YtNW56eWtFMjN5SFFfNlpOUERfd3YtQXFLOFp0QTFPeU8wMnNTY1hWN1ppQzRvNXpQSTM5cTBQcE54c0hBdW9DYkstX2hXRTYwclk0dEw3VzNmUEhaOHd3UmllWjcwMFFUZmxuZ200QWphZUE0NFJUa1c5WkFRanpVOGIta3VmQWh2UDRxUWh1ckRTM1ZFcEJTTGdSOXkzRi1qU1FMVk1DVlZzLWFOeWZ0TzZoQVE0b0NaeVdKUUpaWktVNk9USlE?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T07:23:36+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMimwFBVV95cUxPc1djdk05UUd1VkNTRzNUUFRyQmhmS1hqUTNRdmtyYS1ETzVhVVhMZzNDNUxiSDlJTkZBVVdpa1lySVY3Ti1DT2VqdGpwSFJ6cmVtUjhyXzZMaklLSlBrRmJKRlUtU3dicjNxdkdBejFWTnVqUDRLUTZwbk16azFIcWo1bjVBaGV4UTQ2WF9vREEzd2pMQk45S0NxMA?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Frozen Ready Meals Market to Reach USD 77.5 Billion by 2035,",
+            "summary": "Frozen Ready Meals Market to Reach USD 77.5 Billion by 2035,",
+            "url": "https://news.google.com/read/CBMimwFBVV95cUxPc1djdk05UUd1VkNTRzNUUFRyQmhmS1hqUTNRdmtyYS1ETzVhVVhMZzNDNUxiSDlJTkZBVVdpa1lySVY3Ti1DT2VqdGpwSFJ6cmVtUjhyXzZMaklLSlBrRmJKRlUtU3dicjNxdkdBejFWTnVqUDRLUTZwbk16azFIcWo1bjVBaGV4UTQ2WF9vREEzd2pMQk45S0NxMA?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T10:26:53+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMioAFBVV95cUxNNzBONzZVYzViQ1FPR2Z4ZmFMQUZpM2JZN0l0djJmMk5xelU4ZFVqWmxuN2dtOHdNQmNtWXV6a2NCQ01iWnN1cDhYRGlHSmFoOTAxeHdGVDRMeDRmekYzUE9LRThUTGkzR0VVUlBQR2ZhVDVQUEtYLVJOcXRkWVRXZHVBRzZiUDNoYmVERUN6cnYwR0NZb1JPNk80ZkhKdWNO?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Lithium-Ion Capacitor Market to Reach USD 75.73 Million by 2034,",
+            "summary": "Lithium-Ion Capacitor Market to Reach USD 75.73 Million by 2034,",
+            "url": "https://news.google.com/read/CBMioAFBVV95cUxNNzBONzZVYzViQ1FPR2Z4ZmFMQUZpM2JZN0l0djJmMk5xelU4ZFVqWmxuN2dtOHdNQmNtWXV6a2NCQ01iWnN1cDhYRGlHSmFoOTAxeHdGVDRMeDRmekYzUE9LRThUTGkzR0VVUlBQR2ZhVDVQUEtYLVJOcXRkWVRXZHVBRzZiUDNoYmVERUN6cnYwR0NZb1JPNk80ZkhKdWNO?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T11:42:52+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi8wFBVV95cUxPZkFvQXJHcUZiWTctWkRQc2ZXODBDY1ZWZEpBc3JFSHFPLTRhMktmRzBDcm9Xc1IzblphYm9rUXhuN1F5SDRDU0lobGxYdV82VFBMUnNoQnljbTUtZ0x4ZzRGSnhWTjNZRmo4Q096Y0h6WHlvajJPeDdHOG1hUWZZRlBkaVJqZFlTZGcwU0pIS29tb2dUMENiczB1TjJVZ1FwbjhXa1V1UTR5UmxPSmQtTDV6bDUwQlBuWUNITnZnVk4zbU1KUXZ6UDZWVzlGd3JIMnN3ckY0b1BBX1Y5UnpQY3ZyUFdWZXBvUmVFZU90d0JsQTQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold price today, Friday, July 18, 2025: Gold remains steady after positive economic news",
+            "summary": "Gold price today, Friday, July 18, 2025: Gold remains steady after positive economic news",
+            "url": "https://news.google.com/read/CBMi8wFBVV95cUxPZkFvQXJHcUZiWTctWkRQc2ZXODBDY1ZWZEpBc3JFSHFPLTRhMktmRzBDcm9Xc1IzblphYm9rUXhuN1F5SDRDU0lobGxYdV82VFBMUnNoQnljbTUtZ0x4ZzRGSnhWTjNZRmo4Q096Y0h6WHlvajJPeDdHOG1hUWZZRlBkaVJqZFlTZGcwU0pIS29tb2dUMENiczB1TjJVZ1FwbjhXa1V1UTR5UmxPSmQtTDV6bDUwQlBuWUNITnZnVk4zbU1KUXZ6UDZWVzlGd3JIMnN3ckY0b1BBX1Y5UnpQY3ZyUFdWZXBvUmVFZU90d0JsQTQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-18T12:04:21+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMihgJBVV95cUxQSHhtVzRrNVMtVGVlWmhWdFlFelJ3aHpsdWl4SWNCYnhsNExGWGpkNTRVRWRHZEtobjVkN0FBbVhfd1NWN1hlLXRLWmE2N3pER2NMRldfVEktNVp5VEF6S1NxVEk0STFDZE9uSmlKeDVpdnl4ZDRXMGlTUjlHcktwRnNENlIzalpuZVJIdnlOZGRHd1ZlV0UtUG0waF9MOVF1UTNOaUVQLUdrZi1odjZjYVkzMmktbXpDR0lMcUNtRVgzR0NsQ0Z4ZThBMHp3ODRpaXV3MWMzWWNsbXE0Q0FTWFNIbnZ2cWJoSHcwUk9FSEl5V0pBV3QwVGJ5dm9NNnZLS3E3cWlB0gGLAkFVX3lxTE9sOWRGbW9vNl8xaWlEUzJpMklPbHU1OVR2SFlIdmpjWlVucExPVU9nNlJQZGhMOFdlTUo2bVJxMEI3ZndDTkJIcW9QZ1V5SFlmUzFoMGhQRG56VG4wcTgzR2RXZGJxTXd0ZUhULWtMeGZEMHRHUmIyUHVEaDVta1lnY05VOFlPdUxqLWdzR1RSMFJNenlRWlpaSDFiSGl3dUx0MkM4U1p1blVfR3V5S1ptTGdlZVV0ekdYVzg1b1BISUtnWHJrYW83WTVZQ3FjODdYb3ZEaTJNalR4Z21mcS01U2o1MEc0dWJPbGN2VDlGeVZQTkl6dXdiTEh6aWI0R3kzTGlmVncwOEIxYw?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold prices offer a glittering 200% return in 6 years: Can the yellow metal continue to shower gains on investors?",
+            "summary": "Gold prices offer a glittering 200% return in 6 years: Can the yellow metal continue to shower gains on investors?",
+            "url": "https://news.google.com/read/CBMihgJBVV95cUxQSHhtVzRrNVMtVGVlWmhWdFlFelJ3aHpsdWl4SWNCYnhsNExGWGpkNTRVRWRHZEtobjVkN0FBbVhfd1NWN1hlLXRLWmE2N3pER2NMRldfVEktNVp5VEF6S1NxVEk0STFDZE9uSmlKeDVpdnl4ZDRXMGlTUjlHcktwRnNENlIzalpuZVJIdnlOZGRHd1ZlV0UtUG0waF9MOVF1UTNOaUVQLUdrZi1odjZjYVkzMmktbXpDR0lMcUNtRVgzR0NsQ0Z4ZThBMHp3ODRpaXV3MWMzWWNsbXE0Q0FTWFNIbnZ2cWJoSHcwUk9FSEl5V0pBV3QwVGJ5dm9NNnZLS3E3cWlB0gGLAkFVX3lxTE9sOWRGbW9vNl8xaWlEUzJpMklPbHU1OVR2SFlIdmpjWlVucExPVU9nNlJQZGhMOFdlTUo2bVJxMEI3ZndDTkJIcW9QZ1V5SFlmUzFoMGhQRG56VG4wcTgzR2RXZGJxTXd0ZUhULWtMeGZEMHRHUmIyUHVEaDVta1lnY05VOFlPdUxqLWdzR1RSMFJNenlRWlpaSDFiSGl3dUx0MkM4U1p1blVfR3V5S1ptTGdlZVV0ekdYVzg1b1BISUtnWHJrYW83WTVZQ3FjODdYb3ZEaTJNalR4Z21mcS01U2o1MEc0dWJPbGN2VDlGeVZQTkl6dXdiTEh6aWI0R3kzTGlmVncwOEIxYw?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T09:41:26+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMivgFBVV95cUxPNUk3aFpmZHAyenhCeGVCT0d5Y0M0dG1oWjNTNFZsczdlX3k4VVV4UVFDLWdGUTd1Mmo5dWhYeTgyaXhmcDJEekJ0dC1mSXZvaDFTUC1YWmxxQlF2cU41a090V3BzaFdrU3doSkN6b0ZUZEVxcllFTkxWMVZSOHlxbWVlVk5zTjZfS241S2hQaVhNOUhMZF96VzdhV0dQd2Q4Y3pMc3kzMzNoZm4wQzFpMUc1clZQMUY0R2xELXJR0gHDAUFVX3lxTE8xcjRMMUJ4WXBiNTM1T1pfai0yakVCQWpONzRIb0w0dmtWVzE1Rm0xbm1EbWo5dzAzdE04OFJXbGdqV2N0dlEtOC1ZYUVrbEFGdVlMVEdlbVM0eThod1d6RDNqQU1STG1ONTN6OFdQOWpDUUFCM2dYa1B2WUdZVGV1aTZjaEJCQVJmU2lVRkc3RWJJX0h3dXUwR3lIQU1iRXBNekpLeXd5RVd5RENxWXFxZGtIazNHSlM0UmRCQWU0MW1RUQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "EUR/USD jumps above 1.1690 as trade tensions weigh on USD ahead of ECB\u2019s meeting",
+            "summary": "EUR/USD jumps above 1.1690 as trade tensions weigh on USD ahead of ECB\u2019s meeting",
+            "url": "https://news.google.com/read/CBMivgFBVV95cUxPNUk3aFpmZHAyenhCeGVCT0d5Y0M0dG1oWjNTNFZsczdlX3k4VVV4UVFDLWdGUTd1Mmo5dWhYeTgyaXhmcDJEekJ0dC1mSXZvaDFTUC1YWmxxQlF2cU41a090V3BzaFdrU3doSkN6b0ZUZEVxcllFTkxWMVZSOHlxbWVlVk5zTjZfS241S2hQaVhNOUhMZF96VzdhV0dQd2Q4Y3pMc3kzMzNoZm4wQzFpMUc1clZQMUY0R2xELXJR0gHDAUFVX3lxTE8xcjRMMUJ4WXBiNTM1T1pfai0yakVCQWpONzRIb0w0dmtWVzE1Rm0xbm1EbWo5dzAzdE04OFJXbGdqV2N0dlEtOC1ZYUVrbEFGdVlMVEdlbVM0eThod1d6RDNqQU1STG1ONTN6OFdQOWpDUUFCM2dYa1B2WUdZVGV1aTZjaEJCQVJmU2lVRkc3RWJJX0h3dXUwR3lIQU1iRXBNekpLeXd5RVd5RENxWXFxZGtIazNHSlM0UmRCQWU0MW1RUQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T21:55:16+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMihAFBVV95cUxQNFFBTFZKSnlpZWhEMFAyZWZPWjV1WS1ud2N6RDZvMjBTbUNKZ2tBei1RRGxNU1lqWVV1MUM4eFZiSGVNQTFHaWowMmpkMC1JbFhzbkE4VXRFOGM5WHhtUDVZTzhoZkswLW03RmZWOV93MjY0TC1aTU1FVTlJYkRQcFhZaEc?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Remote Monitoring and Control System Market Size to Hit USD 7.69 Billion by 2034",
+            "summary": "Remote Monitoring and Control System Market Size to Hit USD 7.69 Billion by 2034",
+            "url": "https://news.google.com/read/CBMihAFBVV95cUxQNFFBTFZKSnlpZWhEMFAyZWZPWjV1WS1ud2N6RDZvMjBTbUNKZ2tBei1RRGxNU1lqWVV1MUM4eFZiSGVNQTFHaWowMmpkMC1JbFhzbkE4VXRFOGM5WHhtUDVZTzhoZkswLW03RmZWOV93MjY0TC1aTU1FVTlJYkRQcFhZaEc?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T13:35:57+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiqwFBVV95cUxOYmZRbHI4czFadnVOZ20wbkxpc0VLNkswQWZRUVBpb1pEbjkwNWJvS181WnM3cG82ME1RQ3M1cDYzNHdiUTNSTHgtWEtNTXpZZnJ4QXhTZUhxQXVQblBhUjZpYkh0T05yLVhveEUzZVZBUGhkaXBkNEJ0TktaQzM4cHVvV0lLM3FDS2VTeXFPdVJmNzBQaTJIaEFvNV9NeGJkRjZjS0dFREtSeEXSAbABQVVfeXFMTUNMUEtuam0xVTh2Q2Q4bU56aV9rdmhORVNPcVBKX2Z4eXB4U0FUU2NaZlFzS0NXRklxZ1Q5WGc5VTh2dFRpN0otLUZEX0t1aTFkcTlSWV9QdE9lVVR0Um1SMjRoenR6UkExTkxxcDBFRkcxaHRIQS0yZ1RSMFI5b3JSblY3elF4MjBxUm9ZWTYtWEhISHZQbmNDcEI4bmF4bzctQ0ZWT1VHbnI2R1otQWQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "USD/CAD extends downside below 1.3700 ahead of Fed\u2019s Powell speech",
+            "summary": "USD/CAD extends downside below 1.3700 ahead of Fed\u2019s Powell speech",
+            "url": "https://news.google.com/read/CBMiqwFBVV95cUxOYmZRbHI4czFadnVOZ20wbkxpc0VLNkswQWZRUVBpb1pEbjkwNWJvS181WnM3cG82ME1RQ3M1cDYzNHdiUTNSTHgtWEtNTXpZZnJ4QXhTZUhxQXVQblBhUjZpYkh0T05yLVhveEUzZVZBUGhkaXBkNEJ0TktaQzM4cHVvV0lLM3FDS2VTeXFPdVJmNzBQaTJIaEFvNV9NeGJkRjZjS0dFREtSeEXSAbABQVVfeXFMTUNMUEtuam0xVTh2Q2Q4bU56aV9rdmhORVNPcVBKX2Z4eXB4U0FUU2NaZlFzS0NXRklxZ1Q5WGc5VTh2dFRpN0otLUZEX0t1aTFkcTlSWV9QdE9lVVR0Um1SMjRoenR6UkExTkxxcDBFRkcxaHRIQS0yZ1RSMFI5b3JSblY3elF4MjBxUm9ZWTYtWEhISHZQbmNDcEI4bmF4bzctQ0ZWT1VHbnI2R1otQWQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T23:19:55+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiekFVX3lxTFBhY1E3UWdscFZPUUpkbDRZRi1JZ1h4WVJHZzAzTzVUeU1JRlIwT2VlS0c5UGxjRFcyeWFhamdTdzdCUmpTTGdrb0FZbFM5eHR5REdyeFphVXdxbDNLd3VxWlhfWHhSakRqbmJEQ2Y5eFNUeWpyY0RtY1Vn?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Cardiovascular Information System Market to Hit USD 1.1 Billion by 2033",
+            "summary": "Cardiovascular Information System Market to Hit USD 1.1 Billion by 2033",
+            "url": "https://news.google.com/read/CBMiekFVX3lxTFBhY1E3UWdscFZPUUpkbDRZRi1JZ1h4WVJHZzAzTzVUeU1JRlIwT2VlS0c5UGxjRFcyeWFhamdTdzdCUmpTTGdrb0FZbFM5eHR5REdyeFphVXdxbDNLd3VxWlhfWHhSakRqbmJEQ2Y5eFNUeWpyY0RtY1Vn?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T14:28:11+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMipwFBVV95cUxQdW5oVnNvd0k2TDBFUDZocUtBa19hQlB0OGwxcmI2X1czWHc3Z2IzWEhYZURXdjVIY00tdEUydTVIWnVHV2puTEdJSUF2ZlVjUlJfeVRXVkpzaElmRkpxejl2QmFrWGJ2bmhEYUVuZ2NteEp0T19vcEphX19OQlhqcUU1VmJSaEhfc0xnWDdYMG9BdE1iRmxqQU1HYXNwRk5YZlVDaEJENNIBrAFBVV95cUxOVi1LZ3RVOEItR05JemxkQTNiY2VVVDNNcDFQRWZUdXdZdUNSaUd1UHN1VHZLd2x5MUdLcTlGc25RWDlvbWFNRVA2RU1GT2pCVU00Mll2OXgtRHV5aTNyZnhRV19xZDBQNjVLVmlfT09lWEJnanotNVlidzA2c3VFb2hVUjVHWndhOHFoSnctbVZMTGkxVndNSjh0S2ZXd24tXzZqdW05ZXZGa2JU?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "EUR/USD holds onto gains near 1.1700 amid US-EU trade tensions",
+            "summary": "EUR/USD holds onto gains near 1.1700 amid US-EU trade tensions",
+            "url": "https://news.google.com/read/CBMipwFBVV95cUxQdW5oVnNvd0k2TDBFUDZocUtBa19hQlB0OGwxcmI2X1czWHc3Z2IzWEhYZURXdjVIY00tdEUydTVIWnVHV2puTEdJSUF2ZlVjUlJfeVRXVkpzaElmRkpxejl2QmFrWGJ2bmhEYUVuZ2NteEp0T19vcEphX19OQlhqcUU1VmJSaEhfc0xnWDdYMG9BdE1iRmxqQU1HYXNwRk5YZlVDaEJENNIBrAFBVV95cUxOVi1LZ3RVOEItR05JemxkQTNiY2VVVDNNcDFQRWZUdXdZdUNSaUd1UHN1VHZLd2x5MUdLcTlGc25RWDlvbWFNRVA2RU1GT2pCVU00Mll2OXgtRHV5aTNyZnhRV19xZDBQNjVLVmlfT09lWEJnanotNVlidzA2c3VFb2hVUjVHWndhOHFoSnctbVZMTGkxVndNSjh0S2ZXd24tXzZqdW05ZXZGa2JU?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T03:13:45+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMilgFBVV95cUxPMF84Mnk1Mk5TNG5sZWZjOG9ldW5xcklyVVdWcUI0eFdJME9oVTlRQWRGWm9lN2hoVHE1b1J5em5mZGtubVB5YkRvSThleXBXRzdYY2MtQlU0c3duWDFqZ3FCbGJoOTRCbXUyZ0JQbGRKRURjaEplU08ycEdfMElMNWx1Rm1VeHFmTER0UkNTNm5vLVI2b3fSAZsBQVVfeXFMT2xKWlJxZnpxcFg2aHd5ZkxRdWNGMHZ3aVJGbkNRMXM0WC1Lall6ZnY2OGkzU2M4Q25SVUI0NUc3Q3l1TDZSUVBjM3k2V1AzS1pFX3IwLTNKVUtIQXEzVHRLcllWYzRFTGlNY3RCbWg0a0lxUFNrWWJmSmRMcExDSFVYemdDaFRHNkJJMWRDVGZlVmIxeTd2VzJvN1k?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold extends gains as trade uncertainty weighs on the US Dollar",
+            "summary": "Gold extends gains as trade uncertainty weighs on the US Dollar",
+            "url": "https://news.google.com/read/CBMilgFBVV95cUxPMF84Mnk1Mk5TNG5sZWZjOG9ldW5xcklyVVdWcUI0eFdJME9oVTlRQWRGWm9lN2hoVHE1b1J5em5mZGtubVB5YkRvSThleXBXRzdYY2MtQlU0c3duWDFqZ3FCbGJoOTRCbXUyZ0JQbGRKRURjaEplU08ycEdfMElMNWx1Rm1VeHFmTER0UkNTNm5vLVI2b3fSAZsBQVVfeXFMT2xKWlJxZnpxcFg2aHd5ZkxRdWNGMHZ3aVJGbkNRMXM0WC1Lall6ZnY2OGkzU2M4Q25SVUI0NUc3Q3l1TDZSUVBjM3k2V1AzS1pFX3IwLTNKVUtIQXEzVHRLcllWYzRFTGlNY3RCbWg0a0lxUFNrWWJmSmRMcExDSFVYemdDaFRHNkJJMWRDVGZlVmIxeTd2VzJvN1k?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T16:26:22+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMimwFBVV95cUxQT0s4WkY2SEZKVm13YUVoeTN0S2tBaFphR2hteGx5Z0xXX0gwbDBkT0ZVZ2dWZjV1b1BSTFZlY3hjZXFFYWF3di03YVhrNXhYbWlxRlhRbi1VREhhRC0wdkx2cDd2SV9UQV9DTjl6NGJ6N2tScTJ4N09YTUowSWZhUlRNcmtwZGpVeXdOWkM4U3NVeWt1VUhaTzF1TQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Magnesium Oxide Market Set to Reach USD 8.9 Billion by 2035, Driven by Industrial and Environmental Applications",
+            "summary": "Magnesium Oxide Market Set to Reach USD 8.9 Billion by 2035, Driven by Industrial and Environmental Applications",
+            "url": "https://news.google.com/read/CBMimwFBVV95cUxQT0s4WkY2SEZKVm13YUVoeTN0S2tBaFphR2hteGx5Z0xXX0gwbDBkT0ZVZ2dWZjV1b1BSTFZlY3hjZXFFYWF3di03YVhrNXhYbWlxRlhRbi1VREhhRC0wdkx2cDd2SV9UQV9DTjl6NGJ6N2tScTJ4N09YTUowSWZhUlRNcmtwZGpVeXdOWkM4U3NVeWt1VUhaTzF1TQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T06:25:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMitgFBVV95cUxQcE56WVQ3U2FsaTlFcDR2bmVBc015SnN3a1dUZjlTYmRhTXdudW1hckNxS0l1eHpFX001dUlRQjIyc3dNYnhZZXhrRDV1T2VSVVItaTRvcVFUcURNRG1YR0ZHT0FnWFQ2RFF4eXpvS1dpaTVjX2dnZWtmaFEwUlBicDFfUmxSd0hsWnluaHVWTG1UNEVBR0RNNVhEcm5xTjljYnZiQlZ5WldLNkk2MUNSckZaaHh6Zw?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Why Agnico Eagle Mines Is the Ideal Canadian Gold Stock to Hedge Against Inflation?",
+            "summary": "Why Agnico Eagle Mines Is the Ideal Canadian Gold Stock to Hedge Against Inflation?",
+            "url": "https://news.google.com/read/CBMitgFBVV95cUxQcE56WVQ3U2FsaTlFcDR2bmVBc015SnN3a1dUZjlTYmRhTXdudW1hckNxS0l1eHpFX001dUlRQjIyc3dNYnhZZXhrRDV1T2VSVVItaTRvcVFUcURNRG1YR0ZHT0FnWFQ2RFF4eXpvS1dpaTVjX2dnZWtmaFEwUlBicDFfUmxSd0hsWnluaHVWTG1UNEVBR0RNNVhEcm5xTjljYnZiQlZ5WldLNkk2MUNSckZaaHh6Zw?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T07:52:32+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMioAFBVV95cUxON05mOVZxZUFveEhPY1VrckhmcUhkbEwyd2FWZFl4bVpyMTBtSWFoT3VKbWxYc1JRX1FsVkJaZ0cxWUtvOExLNFAzQVhyOUxNMHZZMTd2M2JFaS1UYkZWZDNldDlBazI0UnJMcWdBalRpOHBVMkZQQkxwN2pldzdTVTVLMXdCbUw3M3Rxd1BkY2NEZUpqQ1JJR1NVNWVSbFFN?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Multi-Cancer Early Detection Market to Surpass USD 4.17 Billion",
+            "summary": "Multi-Cancer Early Detection Market to Surpass USD 4.17 Billion",
+            "url": "https://news.google.com/read/CBMioAFBVV95cUxON05mOVZxZUFveEhPY1VrckhmcUhkbEwyd2FWZFl4bVpyMTBtSWFoT3VKbWxYc1JRX1FsVkJaZ0cxWUtvOExLNFAzQVhyOUxNMHZZMTd2M2JFaS1UYkZWZDNldDlBazI0UnJMcWdBalRpOHBVMkZQQkxwN2pldzdTVTVLMXdCbUw3M3Rxd1BkY2NEZUpqQ1JJR1NVNWVSbFFN?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T11:28:48+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiogFBVV95cUxQb3JMVkVYaDhPanRhdWNMeUVGRmxQR3M1cUFVaVdUNWRHZzNiSXpRSURYTEhNTmctcXU1aXl0ZGV3cEpDMG1BNk05M0dNZXN3VWRyZmRuZ2N1cjJQdUlpM2ttOVYxUk9WM2czUm1ucHhfV1lsVzFtal8wV3hvamFRaWIxaTdJOWtWZ3I4SUd4bDJHc2sxR2lHcndoZnlIOHMwNlE?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Anaesthetics Gel Market to Reach USD 1.37 Billion by 2034, Driven by Expanding Medical and Cosmetic Applications",
+            "summary": "Anaesthetics Gel Market to Reach USD 1.37 Billion by 2034, Driven by Expanding Medical and Cosmetic Applications",
+            "url": "https://news.google.com/read/CBMiogFBVV95cUxQb3JMVkVYaDhPanRhdWNMeUVGRmxQR3M1cUFVaVdUNWRHZzNiSXpRSURYTEhNTmctcXU1aXl0ZGV3cEpDMG1BNk05M0dNZXN3VWRyZmRuZ2N1cjJQdUlpM2ttOVYxUk9WM2czUm1ucHhfV1lsVzFtal8wV3hvamFRaWIxaTdJOWtWZ3I4SUd4bDJHc2sxR2lHcndoZnlIOHMwNlE?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T11:03:30+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiuwFBVV95cUxQeVJ2MXJEWk04b29xS3AtNHVwYi02c3h0dGs2M1lrbnFhTzRRMGh2TzdYSFJ4ck44bmZYTEdJOWNoZFUwMXJBdHBRc0xEQlpyVE1lY1RhVElNeUhILXV3VWNod0xDZU9YVHRiVmhvakszQkNkeU0xOVpsbXRtSFRFdzF6Q0ZQclIzWHI4UmZlU1Y5ZE53QnlKSzVUNmdiZl9DM2U4bWpxc2w4ZENKVVllM3hfWTFCUEhvaURB?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Diabetic Ketoacidosis Treatment Market Size to Hit USD 1,332.33 Million by 2034",
+            "summary": "Diabetic Ketoacidosis Treatment Market Size to Hit USD 1,332.33 Million by 2034",
+            "url": "https://news.google.com/read/CBMiuwFBVV95cUxQeVJ2MXJEWk04b29xS3AtNHVwYi02c3h0dGs2M1lrbnFhTzRRMGh2TzdYSFJ4ck44bmZYTEdJOWNoZFUwMXJBdHBRc0xEQlpyVE1lY1RhVElNeUhILXV3VWNod0xDZU9YVHRiVmhvakszQkNkeU0xOVpsbXRtSFRFdzF6Q0ZQclIzWHI4UmZlU1Y5ZE53QnlKSzVUNmdiZl9DM2U4bWpxc2w4ZENKVVllM3hfWTFCUEhvaURB?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T13:35:50+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiiAFBVV95cUxNWUhwWUxmUzYwX2RfWExsRmRwUEZjWHdYSGRRY3kxakdfS3Q3WVI0NWwyM0RaTi1mRVl2NHdFVnVGYnR5LUoyMXFDSFg2NFRob2JLZGtnVG05cnp0V3p3c0FGbElQNXpmX2hlbkpaaWROOHVfNi1KN2RLalo1NU1nbGk2cl9VblI3?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "New York Yankees, Chicago Cubs, Detroit Tigers Interested in Trade for Gold Glover",
+            "summary": "New York Yankees, Chicago Cubs, Detroit Tigers Interested in Trade for Gold Glover",
+            "url": "https://news.google.com/read/CBMiiAFBVV95cUxNWUhwWUxmUzYwX2RfWExsRmRwUEZjWHdYSGRRY3kxakdfS3Q3WVI0NWwyM0RaTi1mRVl2NHdFVnVGYnR5LUoyMXFDSFg2NFRob2JLZGtnVG05cnp0V3p3c0FGbElQNXpmX2hlbkpaaWROOHVfNi1KN2RLalo1NU1nbGk2cl9VblI3?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T11:45:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMifkFVX3lxTE12TklMSlZVcS1QNmtNbmJPUjQzMGFCS1cyNk1JeFlOd0Eyak1CSnhKQzVaazFTWk1TZS1Ub0tsbFFMcFk4ZW9oNlZIZl83aTlZeVlWZDlzUXRKeFJjWmNkRUtsR3JYTTV5Ti12aUNEb1p3dW5DNzZFbHVGaEdsUQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold Price Near $3,380 as Dollar Weakens, Tariffs Shake Stock Market",
+            "summary": "Gold Price Near $3,380 as Dollar Weakens, Tariffs Shake Stock Market",
+            "url": "https://news.google.com/read/CBMifkFVX3lxTE12TklMSlZVcS1QNmtNbmJPUjQzMGFCS1cyNk1JeFlOd0Eyak1CSnhKQzVaazFTWk1TZS1Ub0tsbFFMcFk4ZW9oNlZIZl83aTlZeVlWZDlzUXRKeFJjWmNkRUtsR3JYTTV5Ti12aUNEb1p3dW5DNzZFbHVGaEdsUQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T17:10:51+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi8AFBVV95cUxQNFNsV3FSOXpVdmR0QVUzNmpwMnVlaFpZOGJyRVlxa19CenplVUZzNWM1ZHdCN2YwY3h3aTR6Sm1uZXUwbFlOeVNSajREbEptOFpsTUdlX0lCejNERmJtSW1QWFFRMVpmc3NGaGZTVzBNakNNbk5GM2pqYVZsRXdXV1dxT1pUM3FDSHNJWmlsN29ZU1pmTk1LQUJMcXllTFppUDBNYnlpWUdvbTUxX281MGFjeEltNVh1NzZNaGU4T0tpdjBsTVJHTkh4VHdMWEJrN0pKY1NaRmpWcEhVQjhBUERublNnVndwYnZxRUNESC0?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Bladder Cancer Market Size to Reach USD 7.2 Billion Globally by 2035: Latest Report by Vantage Market Research",
+            "summary": "Bladder Cancer Market Size to Reach USD 7.2 Billion Globally by 2035: Latest Report by Vantage Market Research",
+            "url": "https://news.google.com/read/CBMi8AFBVV95cUxQNFNsV3FSOXpVdmR0QVUzNmpwMnVlaFpZOGJyRVlxa19CenplVUZzNWM1ZHdCN2YwY3h3aTR6Sm1uZXUwbFlOeVNSajREbEptOFpsTUdlX0lCejNERmJtSW1QWFFRMVpmc3NGaGZTVzBNakNNbk5GM2pqYVZsRXdXV1dxT1pUM3FDSHNJWmlsN29ZU1pmTk1LQUJMcXllTFppUDBNYnlpWUdvbTUxX281MGFjeEltNVh1NzZNaGU4T0tpdjBsTVJHTkh4VHdMWEJrN0pKY1NaRmpWcEhVQjhBUERublNnVndwYnZxRUNESC0?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T08:50:49+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi4AFBVV95cUxOQjBFX01yTUpkT0ZVOFpFakdCSGFlTHF5bm00NFN2NDJxUXJZZ0xZN0ZZSnlvZ0c4WnVXSFJHQWw0bVd3bTJWNW5OSEl5bllEOVpzZEZ1Q2V4WXBWbEpnbjQzMnJnbDg1MUdldHBOTGNMQ2N4VVJOOTBTa1g0OVQ4OVNrRGZ1VkJJZVFQUkZQVENtby1vOHhCRktJcERacTFrMXFMU3RGYUlTbGEwWkZERVVUYWJPS2kzaW1WXzNjVzlmdWFZaDd0bGpFNjVmNlFDeXZvelFUUmhQcy1UdXFXZw?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "China's H1 2025 auto sales: domestic brands reign below 34,750 USD, premium market stays with international giants",
+            "summary": "China's H1 2025 auto sales: domestic brands reign below 34,750 USD, premium market stays with international giants",
+            "url": "https://news.google.com/read/CBMi4AFBVV95cUxOQjBFX01yTUpkT0ZVOFpFakdCSGFlTHF5bm00NFN2NDJxUXJZZ0xZN0ZZSnlvZ0c4WnVXSFJHQWw0bVd3bTJWNW5OSEl5bllEOVpzZEZ1Q2V4WXBWbEpnbjQzMnJnbDg1MUdldHBOTGNMQ2N4VVJOOTBTa1g0OVQ4OVNrRGZ1VkJJZVFQUkZQVENtby1vOHhCRktJcERacTFrMXFMU3RGYUlTbGEwWkZERVVUYWJPS2kzaW1WXzNjVzlmdWFZaDd0bGpFNjVmNlFDeXZvelFUUmhQcy1UdXFXZw?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T03:40:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi0gFBVV95cUxNck82TjhGbDRnbHI3NVdTczN6YVdDZXFPOGxXajVPbnBrb3NyT1RmY05rV0RaREprbjNid1I0bTJvWTlyZGlFNEFfaF9Cc3g4NXNPa2JxakFtaWlUWmo4VWw5NXZUZWJvbmRORWd5TGRteUtZWmR1eVk3di1SY3dwTm9LN2ROQU9hSDUzalhWRkR3YlVBd3pDamtKdHYwdnhJQ0dYaW9iSTI1ZklxWFQ2dXdmbnFnZUJRbUFQeWFTNmpCOXoycUVNN0JKdDdnV3Y4ZGfSAdcBQVVfeXFMTTVSYS1OYjJ5T0REQUxHcUxCblZIMGI5VVRmOVFzYjY4VXBlQVY0MXQxNl9FU0o3V1NkTC1QM1BZUUJrTVFCS0VOSE54MVpHdkNvMkhJbWx2Z1VNQk1tLXphWnNZZTBaVks5eUNwNUVuWXZSN01Sa2JXTDVtOXFxNjBFdzFsZmd1WjRacEtyMFo4MkZEZWNhcDQ3Z3daVGpjNG9TcTM0RG5SVVhIbU8wVERpamo1T2ZtOXVLWmw2V3hVX25BSXFoOThYOHdDWVdkYnlRT1lhLWs?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "AUD/USD rises as EU-US tensions weigh on the US Dollar, RBA Minutes loom",
+            "summary": "AUD/USD rises as EU-US tensions weigh on the US Dollar, RBA Minutes loom",
+            "url": "https://news.google.com/read/CBMi0gFBVV95cUxNck82TjhGbDRnbHI3NVdTczN6YVdDZXFPOGxXajVPbnBrb3NyT1RmY05rV0RaREprbjNid1I0bTJvWTlyZGlFNEFfaF9Cc3g4NXNPa2JxakFtaWlUWmo4VWw5NXZUZWJvbmRORWd5TGRteUtZWmR1eVk3di1SY3dwTm9LN2ROQU9hSDUzalhWRkR3YlVBd3pDamtKdHYwdnhJQ0dYaW9iSTI1ZklxWFQ2dXdmbnFnZUJRbUFQeWFTNmpCOXoycUVNN0JKdDdnV3Y4ZGfSAdcBQVVfeXFMTTVSYS1OYjJ5T0REQUxHcUxCblZIMGI5VVRmOVFzYjY4VXBlQVY0MXQxNl9FU0o3V1NkTC1QM1BZUUJrTVFCS0VOSE54MVpHdkNvMkhJbWx2Z1VNQk1tLXphWnNZZTBaVks5eUNwNUVuWXZSN01Sa2JXTDVtOXFxNjBFdzFsZmd1WjRacEtyMFo4MkZEZWNhcDQ3Z3daVGpjNG9TcTM0RG5SVVhIbU8wVERpamo1T2ZtOXVLWmw2V3hVX25BSXFoOThYOHdDWVdkYnlRT1lhLWs?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T18:58:24+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMirAJBVV95cUxPLXU4d01EVTNLdTRWWHFldml6eDVXNEp2T3pZVEtBblZjTVdqd3ptWVhxd1FJQndjOUJrenl3d3Y4LUxiUnplb0RpSEV2ZEV3VjVyblM5MFd3YmZlek1zVUlWc3Y0RGhmanJvQ1RBVENtZHRuanJDMlMyYmVVTkV2ZnZTOTl2M2RMRWFaN1NRLU5Gb3p5NDYtaEJpNmNsTzR2MFlOamp1Qm05S0xQbFhyQUlTaWN3Wk1HRDVxMllpRDFpcElaR2RDRlBYbHdKNlhXa1VZbU54dlRVNkh1dzQ2Rm52aEhQOERzanlTcWdyMV81UGYtNlVqRHFINnQ5eEtEVDNpWHgwTnp0QkhzSTRYUjFHQU1ZMjRvTHpFc2stZHI2N2NCc29kWWZnZmc?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Energy Security Market to Reach USD 39.26 Billion by 2032,",
+            "summary": "Energy Security Market to Reach USD 39.26 Billion by 2032,",
+            "url": "https://news.google.com/read/CBMirAJBVV95cUxPLXU4d01EVTNLdTRWWHFldml6eDVXNEp2T3pZVEtBblZjTVdqd3ptWVhxd1FJQndjOUJrenl3d3Y4LUxiUnplb0RpSEV2ZEV3VjVyblM5MFd3YmZlek1zVUlWc3Y0RGhmanJvQ1RBVENtZHRuanJDMlMyYmVVTkV2ZnZTOTl2M2RMRWFaN1NRLU5Gb3p5NDYtaEJpNmNsTzR2MFlOamp1Qm05S0xQbFhyQUlTaWN3Wk1HRDVxMllpRDFpcElaR2RDRlBYbHdKNlhXa1VZbU54dlRVNkh1dzQ2Rm52aEhQOERzanlTcWdyMV81UGYtNlVqRHFINnQ5eEtEVDNpWHgwTnp0QkhzSTRYUjFHQU1ZMjRvTHpFc2stZHI2N2NCc29kWWZnZmc?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T14:31:41+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi_wFBVV95cUxOUzBaWkJuMWE0Ri1RQi1haWt3ekdJVEFBY2F1d0Rfc01kbWktclE4MWhmYnRPaEFXVGhzWjFtLS1wVFZQeV9Fd0Y1d2twanh5NzlCSUg5LTRUWjBUckMxeXJwLTVUalZfLUF3RVN2emRpUnJmVFdQT2hreHNUMENuRDF3WnZmcmFfNFBBQkpzRkNobWJ2R2lzRzZzZjlzRlh1emdza19OTVFiRmxRSm5YOEJ4WHVLOVdOa0VWanMxNUYzeDFhTDJJM1FRUk9fVVQ4QmtoM0hYOTJzRDM3MFNhZlNVcEZYYXFjX0JTMTM0UnJBTkxXQk42YlpiQm5tVlk?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Electric Vehicle Tires Market to Surge from USD 26.81 Billion in 2025 to USD 59.59 Billion by 2034",
+            "summary": "Electric Vehicle Tires Market to Surge from USD 26.81 Billion in 2025 to USD 59.59 Billion by 2034",
+            "url": "https://news.google.com/read/CBMi_wFBVV95cUxOUzBaWkJuMWE0Ri1RQi1haWt3ekdJVEFBY2F1d0Rfc01kbWktclE4MWhmYnRPaEFXVGhzWjFtLS1wVFZQeV9Fd0Y1d2twanh5NzlCSUg5LTRUWjBUckMxeXJwLTVUalZfLUF3RVN2emRpUnJmVFdQT2hreHNUMENuRDF3WnZmcmFfNFBBQkpzRkNobWJ2R2lzRzZzZjlzRlh1emdza19OTVFiRmxRSm5YOEJ4WHVLOVdOa0VWanMxNUYzeDFhTDJJM1FRUk9fVVQ4QmtoM0hYOTJzRDM3MFNhZlNVcEZYYXFjX0JTMTM0UnJBTkxXQk42YlpiQm5tVlk?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T14:01:09+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMirwFBVV95cUxPYzFncktIRnlBSmRaeUMwVGx1NWJZRFU5ekRHRWs2Nl82eGZ2ZGRvN0RNSXlTcnoxX3dRR2hDUUNib3M5WmNGNnNOdGYtZjlWOVB6YWVaSUYzcE5DVzRKOWpyMjdPVnFucjN5U04xYXJkMDBlTmFLODJaTHE1MlVJOFk2NFc1OEprcXZzSUNlTWpZT3lsOGl0OVRzQWxISTVYSGViQTFwQXFreDc1VXp3?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Matrixdock Joins Singapore Bullion Market Association to Advance Gold Tokenisation",
+            "summary": "Matrixdock Joins Singapore Bullion Market Association to Advance Gold Tokenisation",
+            "url": "https://news.google.com/read/CBMirwFBVV95cUxPYzFncktIRnlBSmRaeUMwVGx1NWJZRFU5ekRHRWs2Nl82eGZ2ZGRvN0RNSXlTcnoxX3dRR2hDUUNib3M5WmNGNnNOdGYtZjlWOVB6YWVaSUYzcE5DVzRKOWpyMjdPVnFucjN5U04xYXJkMDBlTmFLODJaTHE1MlVJOFk2NFc1OEprcXZzSUNlTWpZT3lsOGl0OVRzQWxISTVYSGViQTFwQXFreDc1VXp3?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T03:32:23+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMimgFBVV95cUxPUGxkQUp2U0RsWWNXY2Z6ZGJOdHRLNHVzSERyaS0ybmdfSUNKVW4zdmdpbDNybTduOW90d1NPbjhhdWY1ZmlTOXVta0hHbWpEakYzWFhrdUxJR05RRk5pdWZidmlnRFpTQ0hvdlhRLXBoMDcweFV6Ukl4N2dQVjlyQjRqWFEyR2w3cjZMdHRYbnd1bVg0YmJ3Rmln?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Fat Dissolving Injection Market to Surpass USD 294 Million",
+            "summary": "Fat Dissolving Injection Market to Surpass USD 294 Million",
+            "url": "https://news.google.com/read/CBMimgFBVV95cUxPUGxkQUp2U0RsWWNXY2Z6ZGJOdHRLNHVzSERyaS0ybmdfSUNKVW4zdmdpbDNybTduOW90d1NPbjhhdWY1ZmlTOXVta0hHbWpEakYzWFhrdUxJR05RRk5pdWZidmlnRFpTQ0hvdlhRLXBoMDcweFV6Ukl4N2dQVjlyQjRqWFEyR2w3cjZMdHRYbnd1bVg0YmJ3Rmln?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T10:06:39+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiekFVX3lxTE1xQjNpODBOaU1YOFU5bnpTR3plZlhGY1J0dEhMb3U0RVBIbVhOdWczWTFXX2lSZ1JfckJXMEtJeWlsRHhNUGRDRG1zSVdXVE9aaFRGSmNVZnp6cm50Wm9mdU9EMDhjZjN2Uk9Ba0I1cWhwT2RJMHFzQlBB0gF_QVVfeXFMTUhtT1RIOVkza0E0ZzJ2TGljZVRGRlVER3gzb2FpbWk3c2o0NkJEVU9aOXdyMTRSY1VTLTBvSHBjVXFXbGNTemVNWkdTb1VkeGxMYW94SGhocjBLOG9Nb2t0blJDSmo0NnlRNi04akplSnRfTVZpS08tYXJqMzNsdw?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold prices stabilize in Baghdad, Erbil - Shafaq News",
+            "summary": "Gold prices stabilize in Baghdad, Erbil - Shafaq News",
+            "url": "https://news.google.com/read/CBMiekFVX3lxTE1xQjNpODBOaU1YOFU5bnpTR3plZlhGY1J0dEhMb3U0RVBIbVhOdWczWTFXX2lSZ1JfckJXMEtJeWlsRHhNUGRDRG1zSVdXVE9aaFRGSmNVZnp6cm50Wm9mdU9EMDhjZjN2Uk9Ba0I1cWhwT2RJMHFzQlBB0gF_QVVfeXFMTUhtT1RIOVkza0E0ZzJ2TGljZVRGRlVER3gzb2FpbWk3c2o0NkJEVU9aOXdyMTRSY1VTLTBvSHBjVXFXbGNTemVNWkdTb1VkeGxMYW94SGhocjBLOG9Nb2t0blJDSmo0NnlRNi04akplSnRfTVZpS08tYXJqMzNsdw?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T10:02:07+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi2gFBVV95cUxQOEl0Uy1zOFUyZFVjdlRTQnhEVGcwWE1nRTd3SUU1dWRaUUVhT1BUeTdiWE9LRmx6dlBpRUdTaDF4TTlqeFBQaWdmV00tU21OcXlIaUxyT24tTXdGZDBxenZFSGxFejY3eWxSZ2k1b0dUeVFSY2tDdllLLVc3REN6NmdVVDJXM2pOa0xOZDRBQ240VDBWMjdTUFRjZVdraExWQldmRHNPTThBQnhHZ1Y0TEdkdVp3SGRXWl81UXh6M2JwVHREWFlWT3Y2eWVRWjVudXNaM0hrVHJPZw?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "According to FMI Envelope Market Size, Forecast, Analysis and Share Surpass USD 2.6 Billion | 2035, At 2.7% CAGR",
+            "summary": "According to FMI Envelope Market Size, Forecast, Analysis and Share Surpass USD 2.6 Billion | 2035, At 2.7% CAGR",
+            "url": "https://news.google.com/read/CBMi2gFBVV95cUxQOEl0Uy1zOFUyZFVjdlRTQnhEVGcwWE1nRTd3SUU1dWRaUUVhT1BUeTdiWE9LRmx6dlBpRUdTaDF4TTlqeFBQaWdmV00tU21OcXlIaUxyT24tTXdGZDBxenZFSGxFejY3eWxSZ2k1b0dUeVFSY2tDdllLLVc3REN6NmdVVDJXM2pOa0xOZDRBQ240VDBWMjdTUFRjZVdraExWQldmRHNPTThBQnhHZ1Y0TEdkdVp3SGRXWl81UXh6M2JwVHREWFlWT3Y2eWVRWjVudXNaM0hrVHJPZw?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T07:01:29+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMijAJBVV95cUxQb1NOMHNFdmNNZlQ1Ulc4V1JYZUdxV0w5MEhwd2pOOXY3X1M3a1FMZzYyQktoTEVubFZ0REhNN0FBZjRBRVZhX0dGdjA5YmJHcE8wMzdSLW41ZTVTVmVoeGRHRjhFdDl2ZVJtVEVPZVZFT2otVThKVmQwVjRkWGhEYVY5LXVWNTJxZTdMeEZjRGZBNTdzc0V3cXpCbUtBYkFSaUNna05OWWk4Q0FqeTFjcWJnSVlZcE9rSFJ3cXhuSllubnhlMEVxVklYenExZ2RRMUVXTG9QbkdxRWVac25iaHVFOUhncEZKQ3lJODcxOFNTR0dsRmVweVZMLVZPNExHUjgxcm85VG9iLVJm?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Global Built-In Kitchen Appliance Market to Reach USD 34.3 Billion by 2035, Driven by Consumer Demand for Seamless, Space-Saving Kitchen Solutions \u2013 FMIBlog",
+            "summary": "Global Built-In Kitchen Appliance Market to Reach USD 34.3 Billion by 2035, Driven by Consumer Demand for Seamless, Space-Saving Kitchen Solutions \u2013 FMIBlog",
+            "url": "https://news.google.com/read/CBMijAJBVV95cUxQb1NOMHNFdmNNZlQ1Ulc4V1JYZUdxV0w5MEhwd2pOOXY3X1M3a1FMZzYyQktoTEVubFZ0REhNN0FBZjRBRVZhX0dGdjA5YmJHcE8wMzdSLW41ZTVTVmVoeGRHRjhFdDl2ZVJtVEVPZVZFT2otVThKVmQwVjRkWGhEYVY5LXVWNTJxZTdMeEZjRGZBNTdzc0V3cXpCbUtBYkFSaUNna05OWWk4Q0FqeTFjcWJnSVlZcE9rSFJ3cXhuSllubnhlMEVxVklYenExZ2RRMUVXTG9QbkdxRWVac25iaHVFOUhncEZKQ3lJODcxOFNTR0dsRmVweVZMLVZPNExHUjgxcm85VG9iLVJm?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T05:36:48+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiyAFBVV95cUxOZkNpRGpacEtMYTFCNElnUnpFdEo0NmRyNjFpWnhIdEx6NnlLR1drXzduZnlSa29TSl9nQ0NERzFiOTVTNUZ5ZXltTnNfTEpnOERJaG9TaE1KVV9rdnhWWlVDTm9DaE1DNXIyMGt0WFRoSkIzOHRQRDdmeFN5MS1sR0JlaDB6WEFqNmluUGtreHlYMGdPeWFfalZMdG50b185T2JMS2p3ek82WjJrMlgyNVlST2Vtckk1RGllOXlEbHRrcVJUcndGYg?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold Eyes $3,845 Surge as Fed, Tariffs Shake Markets",
+            "summary": "Gold Eyes $3,845 Surge as Fed, Tariffs Shake Markets",
+            "url": "https://news.google.com/read/CBMiyAFBVV95cUxOZkNpRGpacEtMYTFCNElnUnpFdEo0NmRyNjFpWnhIdEx6NnlLR1drXzduZnlSa29TSl9nQ0NERzFiOTVTNUZ5ZXltTnNfTEpnOERJaG9TaE1KVV9rdnhWWlVDTm9DaE1DNXIyMGt0WFRoSkIzOHRQRDdmeFN5MS1sR0JlaDB6WEFqNmluUGtreHlYMGdPeWFfalZMdG50b185T2JMS2p3ek82WjJrMlgyNVlST2Vtckk1RGllOXlEbHRrcVJUcndGYg?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-20T19:56:29+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi3AJBVV95cUxNYktCRFZuOG9jbko4eEZzMXRURGs4ZkFkYWxOLXNWeElIU0N1c1RvOWtsM3NOR1pNVTQwMzVobG42ZWQxQ0FGSnQ4TWx0TmJobWc5Uzh3Ul8yY2pyeG1xVlZHYU1jZS1CRW05VldHMG1zUXZsaVdCUHpMZE1zN3pDU2RvV2hUajRwc0o1RXdTMHdHS0RzZTJIXy1zc2FUYk5KSm1SZloxWVBMOWhDNnFNWDNHa1FVU3N6MEZMVmJJdHFoNkUwRmtIcHM1SVp5bXZ3XzJVMXR5ak12WUxPNDlwMVFQaDJXVlpQaWtkazRnYnVXbkF0MHBVNjh2b2VQVjY2anhoMnQzdjhnTzNrS1pSWV9KZEI4YXJtX2NqS1BJenJCcXNZTkFTRWJ2MWhLQ3YzdUoyRWQ5RDdSeE1GWEdhRndGNHdXZ0JmNVFFMmxPUUF4VzZMbklTS21WM1A?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Oil Free Air Compressor Market To USD 20.21 Billion By",
+            "summary": "Oil Free Air Compressor Market To USD 20.21 Billion By",
+            "url": "https://news.google.com/read/CBMi3AJBVV95cUxNYktCRFZuOG9jbko4eEZzMXRURGs4ZkFkYWxOLXNWeElIU0N1c1RvOWtsM3NOR1pNVTQwMzVobG42ZWQxQ0FGSnQ4TWx0TmJobWc5Uzh3Ul8yY2pyeG1xVlZHYU1jZS1CRW05VldHMG1zUXZsaVdCUHpMZE1zN3pDU2RvV2hUajRwc0o1RXdTMHdHS0RzZTJIXy1zc2FUYk5KSm1SZloxWVBMOWhDNnFNWDNHa1FVU3N6MEZMVmJJdHFoNkUwRmtIcHM1SVp5bXZ3XzJVMXR5ak12WUxPNDlwMVFQaDJXVlpQaWtkazRnYnVXbkF0MHBVNjh2b2VQVjY2anhoMnQzdjhnTzNrS1pSWV9KZEI4YXJtX2NqS1BJenJCcXNZTkFTRWJ2MWhLQ3YzdUoyRWQ5RDdSeE1GWEdhRndGNHdXZ0JmNVFFMmxPUUF4VzZMbklTS21WM1A?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T14:01:09+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi6wJBVV95cUxPYlJQR3NPM0E5Q1RpYXhTRXVJVlJ2QWNBNWNfV09LWEk5NExWNmdObDFKdENhOUFmTVZudGhQWEozcHJrSWx4Mm9oXzVJN2JDeE96NmxlNDQxOUNRUEEwSGp1SmFKRUw0eTN2WUhNS1A2WGlZZHdBZUp2b0VDeXFSYU5oUnJvR1FHNE96YU40M1ZfZ3JfMUtkV0FBVU5lREZMRU5mT3hJc09yNnF1aDJXeWpLZUJIb3l1UF9hSm1wWDFvRExzZ3pjdDlXUUVjVVdWZnhUTnFKdGV0Rm82bWg3R2RkaEROMk1obzR3amxoX0NnYkxUanpsWjM3clBPTUkxYnYzcjJpYWxaT2tlZXp6cktMZGFxNXgxM3QzRnk0d1NpU3EzUURRZUZoNU1mbGI2Q0pWUEhLTlVOYmRDajR1V2JiaVU4Vks0UE00bGZNblp0YkE3Tl9rLVQzQ2RqbWJ6N05HTlo5Y2NMLUU?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Container Orchestration Market Size to Surpass USD 3447.29",
+            "summary": "Container Orchestration Market Size to Surpass USD 3447.29",
+            "url": "https://news.google.com/read/CBMi6wJBVV95cUxPYlJQR3NPM0E5Q1RpYXhTRXVJVlJ2QWNBNWNfV09LWEk5NExWNmdObDFKdENhOUFmTVZudGhQWEozcHJrSWx4Mm9oXzVJN2JDeE96NmxlNDQxOUNRUEEwSGp1SmFKRUw0eTN2WUhNS1A2WGlZZHdBZUp2b0VDeXFSYU5oUnJvR1FHNE96YU40M1ZfZ3JfMUtkV0FBVU5lREZMRU5mT3hJc09yNnF1aDJXeWpLZUJIb3l1UF9hSm1wWDFvRExzZ3pjdDlXUUVjVVdWZnhUTnFKdGV0Rm82bWg3R2RkaEROMk1obzR3amxoX0NnYkxUanpsWjM3clBPTUkxYnYzcjJpYWxaT2tlZXp6cktMZGFxNXgxM3QzRnk0d1NpU3EzUURRZUZoNU1mbGI2Q0pWUEhLTlVOYmRDajR1V2JiaVU4Vks0UE00bGZNblp0YkE3Tl9rLVQzQ2RqbWJ6N05HTlo5Y2NMLUU?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T14:31:44+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi-wFBVV95cUxQTTdvQzdKTEhtWU9wQmk4ZXdET1FJQ2FyZWxibmVHTDZKWHdTdTFCWF92cGZTODlIYkQ1R2dxeUFHRExwRWN6T3ZmeE4wa1JNUGlURFZTUlFza2JaSWlJZTljNk1qeFNnZHhEQk5FRnNXek9leWdCbXc0cDRDQ2VYYUlaT3ZraUI5MzFNbVdvY25ZVGlsOS1xZVhkMGl3Q180cnBNVmJKLS1MNGM0Q1V0Umo5QnQ1QmZ4Y2tDbGtqc1NjR3YteFlBQWREMDlJMmhOUlJDblBsZDkxT2FseUFjSE1PYzE3QUZncDByXy1UcEg3TVNKMjd4TnJRQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Construction Materials Market to Exceed USD 1.57 Trillion by 2025, Fueled by Booming Residential and Commercial Construction",
+            "summary": "Construction Materials Market to Exceed USD 1.57 Trillion by 2025, Fueled by Booming Residential and Commercial Construction",
+            "url": "https://news.google.com/read/CBMi-wFBVV95cUxQTTdvQzdKTEhtWU9wQmk4ZXdET1FJQ2FyZWxibmVHTDZKWHdTdTFCWF92cGZTODlIYkQ1R2dxeUFHRExwRWN6T3ZmeE4wa1JNUGlURFZTUlFza2JaSWlJZTljNk1qeFNnZHhEQk5FRnNXek9leWdCbXc0cDRDQ2VYYUlaT3ZraUI5MzFNbVdvY25ZVGlsOS1xZVhkMGl3Q180cnBNVmJKLS1MNGM0Q1V0Umo5QnQ1QmZ4Y2tDbGtqc1NjR3YteFlBQWREMDlJMmhOUlJDblBsZDkxT2FseUFjSE1PYzE3QUZncDByXy1UcEg3TVNKMjd4TnJRQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T16:30:07+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiwwFBVV95cUxQOE9OY3JpTm5jOHM1bktoakdmODVrd1FtUUZwdEpQM3BZNkFXTmdaNE0zMVdZaVl5anQyZHpaVTBfZHhsZmxxcFVFUEFrM0c1WUpyWHRCU0wzb0NSS3BpZ2lvcG15VER6TEE1b2NaX0JJLWFTek9iejR1bE5CZWR6cE1RYWduYmYzMDNwdl95SGk1T1lUeTVleV9vR0ctVlo3TTEwdTlOdnlIRDFNSl84NUlDY0dpT3NfN0phLU81NHZuTzTSAcgBQVVfeXFMUGt5UzBxU0FSb3BQWmVfNkJVR1FZUk9BNjhKckVsUlk3b0d5SndyZ2NndHUzNUw2RVM2RUNRZmlFZXR4UE5TZGVSUjdHVS1WVkF2bGVpWTN1cnNMQWFKRjAxSkVCYmktUG1VLV9wblZxQXRndVlHTVFSWHlCOVNRVi1CUHV4SGo5TS1TR0xWd3Q3ZWRZZWFnVDVLVmE1QnJ2OEF2U0lwTDZvWmJySjRsMGd4dFF3VFJ1ZXMyeVIxeHVRS1RqRno5OFg?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold prices at one-month high: Factors at play",
+            "summary": "Gold prices at one-month high: Factors at play",
+            "url": "https://news.google.com/read/CBMiwwFBVV95cUxQOE9OY3JpTm5jOHM1bktoakdmODVrd1FtUUZwdEpQM3BZNkFXTmdaNE0zMVdZaVl5anQyZHpaVTBfZHhsZmxxcFVFUEFrM0c1WUpyWHRCU0wzb0NSS3BpZ2lvcG15VER6TEE1b2NaX0JJLWFTek9iejR1bE5CZWR6cE1RYWduYmYzMDNwdl95SGk1T1lUeTVleV9vR0ctVlo3TTEwdTlOdnlIRDFNSl84NUlDY0dpT3NfN0phLU81NHZuTzTSAcgBQVVfeXFMUGt5UzBxU0FSb3BQWmVfNkJVR1FZUk9BNjhKckVsUlk3b0d5SndyZ2NndHUzNUw2RVM2RUNRZmlFZXR4UE5TZGVSUjdHVS1WVkF2bGVpWTN1cnNMQWFKRjAxSkVCYmktUG1VLV9wblZxQXRndVlHTVFSWHlCOVNRVi1CUHV4SGo5TS1TR0xWd3Q3ZWRZZWFnVDVLVmE1QnJ2OEF2U0lwTDZvWmJySjRsMGd4dFF3VFJ1ZXMyeVIxeHVRS1RqRno5OFg?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T05:49:01+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi2wJBVV95cUxQbmtpUXYwd3BKQnROd3pYRzQ5MjFrazhOYUFPdk5IZjYtZVdFdFVFcE9lMlVTMUFjLWxXeGpqaHpvdFFLX2pSU0tlMGV4aHdrZ2UyeC0zSG9ud1E4dlhCVzVrVC1fM0NKUlBDamo5S284V3VSRF8xci15T185ZjdkNGJtWlAxMk5OQlBwMFpfakR1aDJPR3Q1cG1sN2F2ZFZOZGtxdTJjakRUaGNzZDVLaTBfRjNQVEVrTFBtdk0tMURCQUgyWVlHZndDMDJQVFBqcjJEbHFySERYOXpiT21FU0NwOFg0VC15NDVPdEhrX3J0ZUxvNm44QXBlUHd5VjVKR3laSnE5X3NYdVNCUlhhZ1ZPT0JFa3dHVVhRak9SUmhtMjdFZ1NGVTZ6NHJwNDNYSWlMV0dkMmRxVDhWWmZXY0FCaEZSR29ZMGlfSm9UOEEtUVU3azVHX21FQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Computational Creativity Market Size to Surpass USD 0.85 Billion by 2032, Owing to Rapid AI Integration in Content Creation and Design Processes | Research by SNS Insider",
+            "summary": "Computational Creativity Market Size to Surpass USD 0.85 Billion by 2032, Owing to Rapid AI Integration in Content Creation and Design Processes | Research by SNS Insider",
+            "url": "https://news.google.com/read/CBMi2wJBVV95cUxQbmtpUXYwd3BKQnROd3pYRzQ5MjFrazhOYUFPdk5IZjYtZVdFdFVFcE9lMlVTMUFjLWxXeGpqaHpvdFFLX2pSU0tlMGV4aHdrZ2UyeC0zSG9ud1E4dlhCVzVrVC1fM0NKUlBDamo5S284V3VSRF8xci15T185ZjdkNGJtWlAxMk5OQlBwMFpfakR1aDJPR3Q1cG1sN2F2ZFZOZGtxdTJjakRUaGNzZDVLaTBfRjNQVEVrTFBtdk0tMURCQUgyWVlHZndDMDJQVFBqcjJEbHFySERYOXpiT21FU0NwOFg0VC15NDVPdEhrX3J0ZUxvNm44QXBlUHd5VjVKR3laSnE5X3NYdVNCUlhhZ1ZPT0JFa3dHVVhRak9SUmhtMjdFZ1NGVTZ6NHJwNDNYSWlMV0dkMmRxVDhWWmZXY0FCaEZSR29ZMGlfSm9UOEEtUVU3azVHX21FQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T14:17:27+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMilwFBVV95cUxQenQtOWU3aUtZV3AweW5QOUtrZkQycFdZY2djUVFNSVUzU1JESjMwOTJGMElMQVdfNGhOYXhXdHY3Z24tVG5fekg2a29ibEl2amFzdEZBamZzam5nNThET19VTENTWm5TcWJYQm53V0hGUDF5N0Zza1FaUjFoOHlqb1JlTUl4ZWdTU244RHNHdTNJOEgzS1FV?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Ophthalmic Lasers Market to Hit USD 1.56 Billion by 2034",
+            "summary": "Ophthalmic Lasers Market to Hit USD 1.56 Billion by 2034",
+            "url": "https://news.google.com/read/CBMilwFBVV95cUxQenQtOWU3aUtZV3AweW5QOUtrZkQycFdZY2djUVFNSVUzU1JESjMwOTJGMElMQVdfNGhOYXhXdHY3Z24tVG5fekg2a29ibEl2amFzdEZBamZzam5nNThET19VTENTWm5TcWJYQm53V0hGUDF5N0Zza1FaUjFoOHlqb1JlTUl4ZWdTU244RHNHdTNJOEgzS1FV?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T07:00:40+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMimgFBVV95cUxPbGY2MlRfUFdxVXhYRlprRHBYbHlSUDhBWHBMaWlpT2Vqa1F2aTU4Y0lyeDktaUUxZkY3dlZxdVZOalpzdGxUOTlHVVVWZE96RUVDQkhXWU9jU3Y5X1JLSEkxUzRjbDlyTnUzcnMzUU1wQkQ5SG9iR1VFbU8yRUlLZjBfN1RGYmFQcHdoSjlNV21iUGJUYkRfdVFR?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Trump firing Powell risks higher inflation, lower USD. Eyes on euro flight to credibility",
+            "summary": "Trump firing Powell risks higher inflation, lower USD. Eyes on euro flight to credibility",
+            "url": "https://news.google.com/read/CBMimgFBVV95cUxPbGY2MlRfUFdxVXhYRlprRHBYbHlSUDhBWHBMaWlpT2Vqa1F2aTU4Y0lyeDktaUUxZkY3dlZxdVZOalpzdGxUOTlHVVVWZE96RUVDQkhXWU9jU3Y5X1JLSEkxUzRjbDlyTnUzcnMzUU1wQkQ5SG9iR1VFbU8yRUlLZjBfN1RGYmFQcHdoSjlNV21iUGJUYkRfdVFR?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T22:10:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiygJBVV95cUxQakY2MDdPVnRnV2xySE9mMUZUbmI4Z3pKNFkwWEFJME9DcnZUejQwYWZrOTAtVVY2cWNseTRIOFVrOGZkWXpVdFF0RzUyeF8zZkpkaFpSYVF4YXJJLWVJQkR2RXVsN1QxRzVfRTFPcEtjWU5ESUdHR0g0TXJZazl3UEhtOUJpT2FxQjJRazBhMlVHRkZ2c05Db1ZYWnpqODZPYTNuV2NnUlVBbHJmN0pjbVp3aFR5cmF2UGF5QTVwSU5Vd0xXakgzNnQ0eTVHVHdNejNFZzZGV3FTX29CX2szWUY3Z0U3RHNIZndNNWJVT29ldVN0amhYUDZvMzF1SkpscFFvRGdnbW8waGpEeFQ5bzZ6cE5peG9jdU1pdEpYRjJOczQzdTlWNDhHNUxfemU0QjZwckwyVkxSUWxyR2JSeGIxOGlGbnpWLXc?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Special Effect Pigments Market to Reach USD 1568.14 Million",
+            "summary": "Special Effect Pigments Market to Reach USD 1568.14 Million",
+            "url": "https://news.google.com/read/CBMiygJBVV95cUxQakY2MDdPVnRnV2xySE9mMUZUbmI4Z3pKNFkwWEFJME9DcnZUejQwYWZrOTAtVVY2cWNseTRIOFVrOGZkWXpVdFF0RzUyeF8zZkpkaFpSYVF4YXJJLWVJQkR2RXVsN1QxRzVfRTFPcEtjWU5ESUdHR0g0TXJZazl3UEhtOUJpT2FxQjJRazBhMlVHRkZ2c05Db1ZYWnpqODZPYTNuV2NnUlVBbHJmN0pjbVp3aFR5cmF2UGF5QTVwSU5Vd0xXakgzNnQ0eTVHVHdNejNFZzZGV3FTX29CX2szWUY3Z0U3RHNIZndNNWJVT29ldVN0amhYUDZvMzF1SkpscFFvRGdnbW8waGpEeFQ5bzZ6cE5peG9jdU1pdEpYRjJOczQzdTlWNDhHNUxfemU0QjZwckwyVkxSUWxyR2JSeGIxOGlGbnpWLXc?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T13:47:08+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi2AFBVV95cUxQc0ZXREh0OE9HS0ZOb2wwUktnX0pFSVZlUkNaZW5GU1NVVTlBTE1IdnVPaFI5TllndEVrdHdMc29PWHNMcHg0bzc3eW53Q0FNeXlONVpQUkVDLVU4MTJJT2hoakFqTW16SFlqMHVTODdHNkJucTNhRHJrbS1oTXVkeUx5eGphSVVvWFpKT0Vheld4SGtNNFcxVlVFbDZQTnB3bzY0ZjJxdWdpTlFpWU9hM2VqQ1F0TGZCMEtwVTVjMkFuUEJSNGlCWVlXNHVEZ3dXQnZPOUxvSG4?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Global Flooring and Carpets Market to Reach USD 533.0 Billion by 2035, Growing at a Steady CAGR of 5.2% | FMI",
+            "summary": "Global Flooring and Carpets Market to Reach USD 533.0 Billion by 2035, Growing at a Steady CAGR of 5.2% | FMI",
+            "url": "https://news.google.com/read/CBMi2AFBVV95cUxQc0ZXREh0OE9HS0ZOb2wwUktnX0pFSVZlUkNaZW5GU1NVVTlBTE1IdnVPaFI5TllndEVrdHdMc29PWHNMcHg0bzc3eW53Q0FNeXlONVpQUkVDLVU4MTJJT2hoakFqTW16SFlqMHVTODdHNkJucTNhRHJrbS1oTXVkeUx5eGphSVVvWFpKT0Vheld4SGtNNFcxVlVFbDZQTnB3bzY0ZjJxdWdpTlFpWU9hM2VqQ1F0TGZCMEtwVTVjMkFuUEJSNGlCWVlXNHVEZ3dXQnZPOUxvSG4?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T05:51:01+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiswFBVV95cUxNNnlzc0I0TV95VDFjRXpZVnh1MVZFWlhob2lpd0hUT1JEbThXUXlUbkUxTXRxME1iU2pnempHdkVuZzBOQXFJdFVMRmc2SjFCaTMwdE5ocy1RNFdOdEhQajh6bGd4dkE1VlVXSDFLeVlDanduMGFSanF5bU12NVRPdWtBY2R4NUhkNG1XQ3Q1c0hBQTRPMmxPX2lTQWVJVnFVRlU3WnhWUUhLeWd3U2lPWVJVc9IBuAFBVV95cUxQamM1TVEzUzh5Qk9mY2JobVUtakhhNHc0S1JiZ0t5UEw2b0pXeUtmZ2tqcFRIS3pOSjFibDM4MWlXRjBhQ2xSZXBWNXF6X0pHM3JROC1HcGtZNFFsbHVLR2Z5Mi1ZYU1xTXhVbTg1eExQeEFGaUZGdlV5MFZCYUw1bV9BazY1N0lhZm8yTU9JYkE0dm1OX1ZWLVM1bllyb0hvYXpPVHFxRDZaSjk3OUxqc1N4ZEU4WVNS?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "EUR/USD Price Forecast: Further choppy trade on the cards near term",
+            "summary": "EUR/USD Price Forecast: Further choppy trade on the cards near term",
+            "url": "https://news.google.com/read/CBMiswFBVV95cUxNNnlzc0I0TV95VDFjRXpZVnh1MVZFWlhob2lpd0hUT1JEbThXUXlUbkUxTXRxME1iU2pnempHdkVuZzBOQXFJdFVMRmc2SjFCaTMwdE5ocy1RNFdOdEhQajh6bGd4dkE1VlVXSDFLeVlDanduMGFSanF5bU12NVRPdWtBY2R4NUhkNG1XQ3Q1c0hBQTRPMmxPX2lTQWVJVnFVRlU3WnhWUUhLeWd3U2lPWVJVc9IBuAFBVV95cUxQamM1TVEzUzh5Qk9mY2JobVUtakhhNHc0S1JiZ0t5UEw2b0pXeUtmZ2tqcFRIS3pOSjFibDM4MWlXRjBhQ2xSZXBWNXF6X0pHM3JROC1HcGtZNFFsbHVLR2Z5Mi1ZYU1xTXhVbTg1eExQeEFGaUZGdlV5MFZCYUw1bV9BazY1N0lhZm8yTU9JYkE0dm1OX1ZWLVM1bllyb0hvYXpPVHFxRDZaSjk3OUxqc1N4ZEU4WVNS?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T17:59:33+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi1AFBVV95cUxNNjN1MTVmUko3Si05eWJwWHY4SnFxQTdTNTl5bzhrZl9fdFhBMnFvSHU3Q1RMOUZ4aVhFSWRrNnBKUTUzWGFwY0JZcjVDQWI2dVlONDI2aHAwb253dGdOUmNDc0p0VFFGTmxRQWZqTmRmOU9ldXBvdTN2cUxmalhDQnI4R1VkSURNZk94dGd2MkhzSlNDRGxyT1Yyb1hXeldrTUZ4X0dwNC1tTVZXYXpsblRyN2x4SHBTbzdLVUdJeFpXdmRSMDI4b3EyRGpVUm03R2VYag?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "5 reasons Trump\u2019s second term has been so good for gold: \u2018It\u2019s becoming a core asset class,\u2019 CIO says.",
+            "summary": "5 reasons Trump\u2019s second term has been so good for gold: \u2018It\u2019s becoming a core asset class,\u2019 CIO says.",
+            "url": "https://news.google.com/read/CBMi1AFBVV95cUxNNjN1MTVmUko3Si05eWJwWHY4SnFxQTdTNTl5bzhrZl9fdFhBMnFvSHU3Q1RMOUZ4aVhFSWRrNnBKUTUzWGFwY0JZcjVDQWI2dVlONDI2aHAwb253dGdOUmNDc0p0VFFGTmxRQWZqTmRmOU9ldXBvdTN2cUxmalhDQnI4R1VkSURNZk94dGd2MkhzSlNDRGxyT1Yyb1hXeldrTUZ4X0dwNC1tTVZXYXpsblRyN2x4SHBTbzdLVUdJeFpXdmRSMDI4b3EyRGpVUm03R2VYag?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-17T11:00:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiZkFVX3lxTE1hUEJhWmJKUTJ1TFEzTnRuVDg1a2kwYVo4WFNUR0ZWdFdLT25HMklmYkY1WjAzSUQ4bmRiSVRZUkxYNndqYmszR0ZLODAyUHNsSURUWlRiYXNIQ2xuU2syUmJpTXlvUQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Global Organic Feed Market to Surpass USD 20.48 Billion by 2035 Amid Rising Demand for Clean-Label Animal Products \u2013 FMIBlog",
+            "summary": "Global Organic Feed Market to Surpass USD 20.48 Billion by 2035 Amid Rising Demand for Clean-Label Animal Products \u2013 FMIBlog",
+            "url": "https://news.google.com/read/CBMiZkFVX3lxTE1hUEJhWmJKUTJ1TFEzTnRuVDg1a2kwYVo4WFNUR0ZWdFdLT25HMklmYkY1WjAzSUQ4bmRiSVRZUkxYNndqYmszR0ZLODAyUHNsSURUWlRiYXNIQ2xuU2syUmJpTXlvUQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T11:09:13+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMizgFBVV95cUxONGpIczdpcGs1dVVkREF5M2szaGllZHVEbmNnbHpWbGt2ZzJaNDFlWG5wUjcyQlFnTEdTQnJuMkVGNzRXVDJ1UUk0aVV2N09rQ0xiZVdBeWt5U29HVHZGY1kxaEpvRG9UT0ZJS1lobm92NkxXeUdMYjR0Y0QwR29yMmF0VXpLY0xIRjVsaTF1RWtfTHBELUU2azJxejZIaTB3OU5mLXZWa3RUc3MwYUVYbEttX2N3UGJ6b1dIS3VhVERJZWh3LVNEUGt6b1JQQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Padres Predicted to Land $15 Million Gold Glove Utility Man in Trade Deadline Move",
+            "summary": "Padres Predicted to Land $15 Million Gold Glove Utility Man in Trade Deadline Move",
+            "url": "https://news.google.com/read/CBMizgFBVV95cUxONGpIczdpcGs1dVVkREF5M2szaGllZHVEbmNnbHpWbGt2ZzJaNDFlWG5wUjcyQlFnTEdTQnJuMkVGNzRXVDJ1UUk0aVV2N09rQ0xiZVdBeWt5U29HVHZGY1kxaEpvRG9UT0ZJS1lobm92NkxXeUdMYjR0Y0QwR29yMmF0VXpLY0xIRjVsaTF1RWtfTHBELUU2azJxejZIaTB3OU5mLXZWa3RUc3MwYUVYbEttX2N3UGJ6b1dIS3VhVERJZWh3LVNEUGt6b1JQQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T18:00:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMiggFBVV95cUxQMnJldGlES0paSnlGNWdxYmFkWXZtZ1N3cnlReC1FdHBLSmRuRE40V1dfd1QtVlNTa0laeVU3TjI5R21zcHBTNVprbXhMT0lKbHZjN09sd1h2dWJ5UWhPTXc3MmVrcGdoQ3U4VWptUzZvX2NycVpacTFnV1UyNWplS3NR?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "EUR/USD Eyes 1.17 as Dollar Dips, Stock Market Wobbles",
+            "summary": "EUR/USD Eyes 1.17 as Dollar Dips, Stock Market Wobbles",
+            "url": "https://news.google.com/read/CBMiggFBVV95cUxQMnJldGlES0paSnlGNWdxYmFkWXZtZ1N3cnlReC1FdHBLSmRuRE40V1dfd1QtVlNTa0laeVU3TjI5R21zcHBTNVprbXhMT0lKbHZjN09sd1h2dWJ5UWhPTXc3MmVrcGdoQ3U4VWptUzZvX2NycVpacTFnV1UyNWplS3NR?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T17:10:50+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMimgFBVV95cUxQaTlEMDJ1OExWR0dYdXZtaFNpUWpENmhiNllUemZVX2kwVFBCTnJXSmdEUkZ0bnJiejV2VkdZNjhBdXBVblRFcDRSZGZRY2tMclFwZnIxdDljNDlHb1pxaVFoWEJLUXZFdUdwbEdydFNJZWFEODh6Ym5fdjJhNFhYLXNWS2hubFotdld5cHBDSEtxaGNVMWx2NTlR?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Should gold investors switch to silver as the price surges?",
+            "summary": "Should gold investors switch to silver as the price surges?",
+            "url": "https://news.google.com/read/CBMimgFBVV95cUxQaTlEMDJ1OExWR0dYdXZtaFNpUWpENmhiNllUemZVX2kwVFBCTnJXSmdEUkZ0bnJiejV2VkdZNjhBdXBVblRFcDRSZGZRY2tMclFwZnIxdDljNDlHb1pxaVFoWEJLUXZFdUdwbEdydFNJZWFEODh6Ym5fdjJhNFhYLXNWS2hubFotdld5cHBDSEtxaGNVMWx2NTlR?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-18T14:00:31+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi7gFBVV95cUxOSUtGeGhIRDljZFVhaUpjcDAtZWpqNk9kV1V3OWo1RkFGRTdVMmRTd0pKMUVZTnRDT3RvcnpfYmdLdTVqUnZPLWN0bGRvWmt5d1U3MUxOWEZrSFRPd29GOW1xRTdQYWFndzF5YVZ0bEJBZzVmaXBVbWN6bU9ycEhxLVNsNWRnUFh0YmpIOU1teVllOHZZYlFLMEZHN0lNWFliZDNVNXNnRzBPWlZNRDF6QWtyU1ZQZzhwLVdrZTNsR2xIMzBjRUZ6N1lTT1hPZnVOV0cyVzRsdXk3MF9KZnE1NHl6S3Z2T2U2NGdJd3NB?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold price hits five-week high. Will gold rate hit record new level in August?",
+            "summary": "Gold price hits five-week high. Will gold rate hit record new level in August?",
+            "url": "https://news.google.com/read/CBMi7gFBVV95cUxOSUtGeGhIRDljZFVhaUpjcDAtZWpqNk9kV1V3OWo1RkFGRTdVMmRTd0pKMUVZTnRDT3RvcnpfYmdLdTVqUnZPLWN0bGRvWmt5d1U3MUxOWEZrSFRPd29GOW1xRTdQYWFndzF5YVZ0bEJBZzVmaXBVbWN6bU9ycEhxLVNsNWRnUFh0YmpIOU1teVllOHZZYlFLMEZHN0lNWFliZDNVNXNnRzBPWlZNRDF6QWtyU1ZQZzhwLVdrZTNsR2xIMzBjRUZ6N1lTT1hPZnVOV0cyVzRsdXk3MF9KZnE1NHl6S3Z2T2U2NGdJd3NB?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T23:52:18+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMivAJBVV95cUxQZ1dsU3JaSDgzSUU3emlIVnV5ZVNXOEcwdnltWnhwN2xlN1QtNkdSNHlaMFc1OWhpckw0SUkwTnl4dUNCTk1zUXV1Nk5Fb3lBdnBtZDZUdVlfZ2N6b2x5cHo1U1JoWEM5dndRZmt0ZnhpZGtMQmdsb09lMGJvRW1DUGY0Ny1vanlxMC1ub0RkWk4zNzFuOG0yNkdySzVlcHg3dW9kY0IyQng0QnBjT002Njd5eWlYeUFXaVlIR1NIYndJTVpFN0NNMEtTaF8yVDZtQU5yQllBY2c4allwajN6OU1ZRTZYTzJNRmE3T1NadDZfOU83SXVhVkNZM2pteERaYzVDVlI0M2dJazlNMkdtT19nTkszb3NjalVDMTlGNGppMzhzNjhvMEhqTkVaYlItbk9MaXVkRVhwVWtQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Methyl Ester Ethoxylates Market to Reach USD 202.43 Million",
+            "summary": "Methyl Ester Ethoxylates Market to Reach USD 202.43 Million",
+            "url": "https://news.google.com/read/CBMivAJBVV95cUxQZ1dsU3JaSDgzSUU3emlIVnV5ZVNXOEcwdnltWnhwN2xlN1QtNkdSNHlaMFc1OWhpckw0SUkwTnl4dUNCTk1zUXV1Nk5Fb3lBdnBtZDZUdVlfZ2N6b2x5cHo1U1JoWEM5dndRZmt0ZnhpZGtMQmdsb09lMGJvRW1DUGY0Ny1vanlxMC1ub0RkWk4zNzFuOG0yNkdySzVlcHg3dW9kY0IyQng0QnBjT002Njd5eWlYeUFXaVlIR1NIYndJTVpFN0NNMEtTaF8yVDZtQU5yQllBY2c4allwajN6OU1ZRTZYTzJNRmE3T1NadDZfOU83SXVhVkNZM2pteERaYzVDVlI0M2dJazlNMkdtT19nTkszb3NjalVDMTlGNGppMzhzNjhvMEhqTkVaYlItbk9MaXVkRVhwVWtQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T13:31:37+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMi_gFBVV95cUxONmgyeThGcGw2R1B5TU1CTjRMMlBBM2lFVmpwQ09xSFpzaTlETm9PNGo1SEszcWpuUExORlZ2b05FYUI4cUpVdzFMb1ZsTzJ3X0JIRkpmX3dtajhzOVZCWUNBZ0JGYmdSc3JhNXNZQVFRSVlVckg5cGFpWUdCM256Qi16c1JRZ0xTdzZCdHd3cnJ6d0ZpZmYwNElvcktieFlBMEFzYU1kVlp2eVg3bGExampucmtKeVRkZktZNGoyTXFTQjd4YjRVWVR6UVhYNXFsQjQ4dER5MVEyTVA2VU5wM3FwVWVfWVJqUTFkOHBKbzNQaUhWMnJhcU8wMnpWQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gait Biometrics Market Size to Hit USD 3.41 Billion by 2032, at 13.38% CAGR | Research by SNS Insider",
+            "summary": "Gait Biometrics Market Size to Hit USD 3.41 Billion by 2032, at 13.38% CAGR | Research by SNS Insider",
+            "url": "https://news.google.com/read/CBMi_gFBVV95cUxONmgyeThGcGw2R1B5TU1CTjRMMlBBM2lFVmpwQ09xSFpzaTlETm9PNGo1SEszcWpuUExORlZ2b05FYUI4cUpVdzFMb1ZsTzJ3X0JIRkpmX3dtajhzOVZCWUNBZ0JGYmdSc3JhNXNZQVFRSVlVckg5cGFpWUdCM256Qi16c1JRZ0xTdzZCdHd3cnJ6d0ZpZmYwNElvcktieFlBMEFzYU1kVlp2eVg3bGExampucmtKeVRkZktZNGoyTXFTQjd4YjRVWVR6UVhYNXFsQjQ4dER5MVEyTVA2VU5wM3FwVWVfWVJqUTFkOHBKbzNQaUhWMnJhcU8wMnpWQQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-21T13:03:00+00:00",
+            "relevance_score": 1
+        },
+        {
+            "id": "https://news.google.com/read/CBMihgFBVV95cUxQZlZ0bmhWM3ExNHZVVElDOWZqQW1xTi1GRjFXaDBEX1htYXRkVzZwUkVFTlA0XzFNRUw5MnczUGRFUi1lc3RydExRcVI0NjBuMm1LYXdzcFJLUnFEVnQ4TGxFVDdWaE5qOGh2ei11YjVFazAyYWFXMXhqQ3lrU2FyVDB2VXlhUQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "source": "Google News",
+            "title": "Gold Stocks Top Market Moving Stocks - Free Capital Efficiency Planning",
+            "summary": "Gold Stocks Top Market Moving Stocks - Free Capital Efficiency Planning",
+            "url": "https://news.google.com/read/CBMihgFBVV95cUxQZlZ0bmhWM3ExNHZVVElDOWZqQW1xTi1GRjFXaDBEX1htYXRkVzZwUkVFTlA0XzFNRUw5MnczUGRFUi1lc3RydExRcVI0NjBuMm1LYXdzcFJLUnFEVnQ4TGxFVDdWaE5qOGh2ei11YjVFazAyYWFXMXhqQ3lrU2FyVDB2VXlhUQ?hl=en-US&gl=US&ceid=US%3Aen",
+            "published_time_utc": "2025-07-22T08:04:06+00:00",
+            "relevance_score": 1
+        }
+    ]
+}
